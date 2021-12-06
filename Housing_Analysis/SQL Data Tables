@@ -1,0 +1,44 @@
+-- Create State Income Data Column
+CREATE TABLE income (
+	county varchar NOT NULL,
+	year INT NOT NULL, 
+	income INT, 
+	population INT,
+	PRIMARY KEY (county, year)
+); 
+
+Select * FROM income
+
+-- Create Zillow Housing Data Table 
+CREATE TABLE housing (
+	county varchar NOT NULL, 
+	year Int NOT NULL,
+	house_price Float,
+	PRIMARY KEY (county, year)
+);
+
+Select * FROM housing 
+
+-- Create GDP by County Data Table 
+CREATE TABLE gdp (
+	year Int NOT NULL,
+	county varchar NOT NULL,
+	description varchar NOT NULL, 
+	GDP_change varchar
+);
+
+Select * FROM gdp 
+
+SELECT income.county,
+	income.year, 
+	income.income,
+	housing.house_price
+INTO housing_income
+FROM income 
+LEFT OUTER JOIN housing 
+ON income.county = housing.county;
+
+SELECT * FROM housing_income
+
+
+postgres://postgres:DnalEvelc1130!@localhost:5432/Housing-Database

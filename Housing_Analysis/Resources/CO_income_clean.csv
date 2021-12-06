@@ -1,0 +1,1277 @@
+County,Year,Income,Population
+La Plata County,1997,36822,41654
+Montrose County,1997,32312,31460
+Fremont County,1997,29939,43825
+Arapahoe County,1997,50748,462681
+Huerfano County,1997,21389,7553
+Kit Carson County,1997,32964,7614
+Jackson County,1997,29031,1534
+Jefferson County,1997,54175,507371
+Otero County,1997,25143,20777
+Cheyenne County,1997,0,2261
+Dolores County,1997,25826,1680
+San Juan County,1997,27635,555
+San Miguel County,1997,42160,5991
+Douglas County,1997,77513,130505
+Phillips County,1997,32863,4523
+Yuma County,1997,31639,9637
+Pueblo County,1997,29112,134792
+Bent County,1997,26427,5539
+Montezuma County,1997,30882,22989
+Chaffee County,1997,30881,15195
+Clear Creek County,1997,56537,8981
+Gunnison County,1997,32300,13186
+Rio Blanco County,1997,40921,6199
+Moffat County,1997,42476,12651
+Ouray County,1997,38465,3323
+Teller County,1997,45552,19173
+Gilpin County,1997,51044,4101
+Prowers County,1997,28881,14237
+Denver County,1997,35616,536678
+Costilla County,1997,18700,3605
+Weld County,1997,35351,161525
+Elbert County,1997,52636,17011
+Garfield County,1997,40923,39210
+Conejos County,1997,20708,8056
+Hinsdale County,1997,32993,737
+Custer County,1997,29797,3195
+Morgan County,1997,31197,26167
+Baca County,1997,26731,4563
+Summit County,1997,45857,20976
+Lincoln County,1997,29117,5978
+Logan County,1997,33076,19803
+Lake County,1997,34986,7265
+Adams County,1997,40802,332462
+Saguache County,1997,22419,5543
+Eagle County,1997,50000,35879
+Crowley County,1997,23524,4997
+Pitkin County,1997,52744,14920
+Alamosa County,1997,28204,14634
+Sedgwick County,1997,28209,2696
+Mesa County,1997,33519,110566
+Washington County,1997,29870,5019
+Las Animas County,1997,22682,14621
+Archuleta County,1997,30518,8498
+Larimer County,1997,43853,233746
+Kiowa County,1997,32455,1632
+Park County,1997,46090,12437
+Boulder County,1997,50245,270744
+Grand County,1997,38865,11005
+El Paso County,1997,42023,486934
+Mineral County,1997,29810,724
+Delta County,1997,27418,26177
+Rio Grande County,1997,25808,11990
+Routt County,1997,42799,18313
+Park County,1998,49712,13154
+Adams County,1998,44327,343094
+Delta County,1998,29161,26970
+Gilpin County,1998,53136,4337
+Lincoln County,1998,30380,6070
+Cheyenne County,1998,37101,2334
+Summit County,1998,47456,21702
+Montrose County,1998,33659,32201
+Conejos County,1998,21752,8205
+Las Animas County,1998,24375,14765
+Gunnison County,1998,34097,13488
+Jefferson County,1998,55869,513706
+Teller County,1998,48476,19737
+Denver County,1998,38943,540893
+Baca County,1998,29021,4548
+Logan County,1998,33845,19843
+Chaffee County,1998,32962,15431
+San Juan County,1998,26077,543
+Kit Carson County,1998,35344,7815
+Pueblo County,1998,30781,137690
+Eagle County,1998,51578,38434
+Clear Creek County,1998,61703,9122
+Bent County,1998,26502,5960
+Custer County,1998,31809,3306
+Jackson County,1998,30052,1541
+Otero County,1998,26244,20556
+Lake County,1998,36779,7473
+Routt County,1998,45405,18653
+El Paso County,1998,43755,498062
+Fremont County,1998,32201,45026
+Yuma County,1998,32285,9756
+Douglas County,1998,84645,146164
+San Miguel County,1998,43090,6256
+Mineral County,1998,32453,769
+Crowley County,1998,25455,5128
+Costilla County,1998,19815,3644
+Ouray County,1998,40866,3470
+Larimer County,1998,45863,240765
+Washington County,1998,31397,5034
+Montezuma County,1998,32319,23210
+Weld County,1998,37659,166547
+Hinsdale County,1998,36167,778
+Rio Blanco County,1998,41399,6132
+Boulder County,1998,54503,277562
+Sedgwick County,1998,29024,2663
+Grand County,1998,40670,11529
+Rio Grande County,1998,26428,12163
+Alamosa County,1998,29121,14730
+Dolores County,1998,29088,1782
+Mesa County,1998,35405,112686
+Moffat County,1998,43611,12956
+Kiowa County,1998,32921,1637
+La Plata County,1998,38458,42318
+Prowers County,1998,30336,14355
+Garfield County,1998,43560,41095
+Pitkin County,1998,53570,14886
+Huerfano County,1998,24269,7743
+Morgan County,1998,32971,26334
+Arapahoe County,1998,52576,472544
+Elbert County,1998,57910,18077
+Archuleta County,1998,32609,9109
+Phillips County,1998,33433,4545
+Saguache County,1998,23069,5613
+Rio Grande County,1999,19193,12258
+Conejos County,1999,14188,8336
+Bent County,1999,18977,6049
+San Juan County,1999,26167,549
+Douglas County,1999,51367,162866
+Las Animas County,1999,16286,14960
+Sedgwick County,1999,19335,2711
+Jackson County,1999,20938,1573
+Montezuma County,1999,22491,23601
+Huerfano County,1999,14730,7879
+Delta County,1999,18532,27586
+Gilpin County,1999,31898,4658
+Larimer County,1999,29686,246884
+Teller County,1999,32209,20294
+Logan County,1999,22065,20076
+Routt County,1999,31409,19237
+Boulder County,1999,35322,285901
+Custer County,1999,20000,3455
+Washington County,1999,20638,4862
+Clear Creek County,1999,33149,9293
+Moffat County,1999,31615,13178
+Jefferson County,1999,39084,523325
+Gunnison County,1999,23013,13765
+Summit County,1999,35229,23069
+Prowers County,1999,20625,14520
+Fremont County,1999,19988,45655
+Eagle County,1999,36931,40443
+Denver County,1999,25106,548848
+Rio Blanco County,1999,29243,6022
+Mineral County,1999,19830,802
+Park County,1999,32102,13987
+La Plata County,1999,25759,43049
+Yuma County,1999,22249,9807
+Arapahoe County,1999,37234,482262
+Grand County,1999,29991,12138
+Saguache County,1999,15853,5706
+Archuleta County,1999,22894,9510
+Kiowa County,1999,21417,1639
+Adams County,1999,30522,354146
+Phillips County,1999,21484,4521
+Dolores County,1999,19952,1824
+Pitkin County,1999,39991,15081
+Alamosa County,1999,20265,14881
+Crowley County,1999,16088,5336
+San Miguel County,1999,30578,6396
+Chaffee County,1999,21174,16026
+Montrose County,1999,22610,32907
+Lake County,1999,24708,7713
+Weld County,1999,25642,174342
+El Paso County,1999,29604,509044
+Pueblo County,1999,21553,140184
+Otero County,1999,18178,20502
+Mesa County,1999,23698,114827
+Baca County,1999,18602,4562
+Morgan County,1999,22849,26796
+Kit Carson County,1999,23125,8028
+Elbert County,1999,36273,19170
+Hinsdale County,1999,26250,793
+Costilla County,1999,13057,3601
+Garfield County,1999,29176,42611
+Ouray County,1999,27500,3622
+Lincoln County,1999,20595,6097
+Cheyenne County,1999,24341,2255
+Montrose County,2000,36303,33432
+Phillips County,2000,34253,4480
+Costilla County,2000,21135,3663
+Sedgwick County,2000,29763,2747
+Ouray County,2000,43707,3742
+San Miguel County,2000,49270,6594
+Saguache County,2000,24912,5917
+Mineral County,2000,36124,831
+Bent County,2000,28252,5998
+Teller County,2000,52304,20555
+San Juan County,2000,30564,558
+Rio Grande County,2000,32646,12413
+Custer County,2000,36205,3503
+Arapahoe County,2000,55359,487967
+Logan County,2000,34724,20504
+Routt County,2000,53966,19690
+Adams County,2000,48307,363857
+Jefferson County,2000,60357,527056
+Archuleta County,2000,38241,9898
+El Paso County,2000,48991,516929
+Washington County,2000,33193,4926
+Mesa County,2000,37138,116255
+Pueblo County,2000,33673,141472
+Douglas County,2000,91210,175766
+Dolores County,2000,32126,1844
+Denver County,2000,41657,554636
+Lincoln County,2000,33205,6087
+Prowers County,2000,30905,14483
+Garfield County,2000,48713,43791
+Summit County,2000,57200,23548
+Weld County,2000,42555,180936
+Otero County,2000,29939,20311
+Hinsdale County,2000,37815,790
+Gunnison County,2000,37898,13956
+Yuma County,2000,34613,9841
+Larimer County,2000,49758,251494
+Delta County,2000,33356,27834
+Kiowa County,2000,32811,1622
+Montezuma County,2000,33305,23830
+Gilpin County,2000,53910,4757
+Chaffee County,2000,35706,16242
+Jackson County,2000,33178,1577
+Baca County,2000,29274,4517
+Pitkin County,2000,62190,14872
+Eagle County,2000,61760,41659
+La Plata County,2000,41490,43941
+Grand County,2000,47958,12442
+Alamosa County,2000,30538,14966
+Huerfano County,2000,26176,7862
+Las Animas County,2000,28730,15207
+Crowley County,2000,26953,5518
+Boulder County,2000,58601,291288
+Lake County,2000,38487,7812
+Moffat County,2000,43186,13184
+Rio Blanco County,2000,40409,5986
+Clear Creek County,2000,54838,9322
+Elbert County,2000,66082,19872
+Cheyenne County,2000,37620,2231
+Conejos County,2000,25296,8400
+Kit Carson County,2000,35066,8011
+Fremont County,2000,34504,46145
+Morgan County,2000,35648,27171
+Park County,2000,54396,14523
+Jackson County,2001,32074,1522
+Boulder County,2001,57079,278981
+Prowers County,2001,29985,14251
+Kiowa County,2001,32346,1534
+Huerfano County,2001,25130,7869
+Grand County,2001,47956,12645
+San Miguel County,2001,49527,6885
+Pitkin County,2001,62605,14909
+Archuleta County,2001,37327,10492
+Fremont County,2001,33517,46747
+Morgan County,2001,35009,27281
+Washington County,2001,32923,4816
+Park County,2001,53925,15346
+San Juan County,2001,30770,567
+Crowley County,2001,25497,5681
+Delta County,2001,32258,28147
+Ouray County,2001,43332,3808
+Baca County,2001,28087,4468
+Denver County,2001,40709,564411
+Logan County,2001,34297,21271
+Yuma County,2001,34542,9785
+El Paso County,2001,48583,535549
+Dolores County,2001,31685,1835
+Pueblo County,2001,32663,144130
+Montezuma County,2001,32717,23707
+Lake County,2001,37286,7839
+Moffat County,2001,42901,13145
+Elbert County,2001,66230,21167
+Rio Blanco County,2001,39785,5846
+Summit County,2001,56707,24715
+Phillips County,2001,34065,4470
+Weld County,2001,42849,193060
+Douglas County,2001,93316,197344
+Chaffee County,2001,34930,16388
+Otero County,2001,28869,20008
+Gilpin County,2001,54319,4833
+Arapahoe County,2001,55878,502810
+La Plata County,2001,41194,45103
+Clear Creek County,2001,55116,9400
+Mesa County,2001,36315,119287
+Routt County,2001,54270,20214
+Cheyenne County,2001,37017,2173
+Garfield County,2001,48431,45579
+Eagle County,2001,62370,43381
+Saguache County,2001,23809,6155
+Custer County,2001,35953,3636
+Jefferson County,2001,60297,529690
+Broomfield County,2001,65302,41436
+Las Animas County,2001,27960,15119
+Bent County,2001,27470,5763
+Lincoln County,2001,31848,5866
+Larimer County,2001,49168,260746
+Gunnison County,2001,37809,14194
+Costilla County,2001,20403,3576
+Montrose County,2001,35896,34342
+Kit Carson County,2001,34257,7974
+Alamosa County,2001,29987,14991
+Teller County,2001,52510,21055
+Sedgwick County,2001,28868,2650
+Hinsdale County,2001,37088,815
+Rio Grande County,2001,32344,12172
+Adams County,2001,46996,360348
+Mineral County,2001,35306,821
+Conejos County,2001,24770,8320
+Rio Blanco County,2002,41133,5909
+Kit Carson County,2002,31728,8203
+Park County,2002,53045,15919
+Moffat County,2002,43718,13304
+Baca County,2002,25364,4331
+Gunnison County,2002,36989,14314
+Montezuma County,2002,32443,23943
+Hinsdale County,2002,36706,797
+Arapahoe County,2002,55188,509598
+Ouray County,2002,43747,3914
+Washington County,2002,30079,4943
+Archuleta County,2002,37345,10951
+Rio Grande County,2002,32858,12157
+Yuma County,2002,33722,9694
+Prowers County,2002,29058,14170
+Douglas County,2002,93927,210037
+Larimer County,2002,49638,265659
+Routt County,2002,53299,20446
+El Paso County,2002,48626,544815
+Saguache County,2002,23098,6442
+Alamosa County,2002,30427,15168
+Pueblo County,2002,33269,146735
+Fremont County,2002,33548,47197
+Garfield County,2002,48257,46793
+Sedgwick County,2002,27884,2673
+Clear Creek County,2002,55079,9492
+Weld County,2002,43476,203570
+Broomfield County,2002,65155,42522
+Logan County,2002,34242,21229
+Mineral County,2002,34694,857
+Pitkin County,2002,60821,14909
+Dolores County,2002,30108,1842
+Denver County,2002,40082,561072
+San Juan County,2002,30733,568
+La Plata County,2002,41591,45979
+Huerfano County,2002,25249,7921
+Phillips County,2002,33225,4521
+Crowley County,2002,23963,5792
+Gilpin County,2002,53766,4859
+San Miguel County,2002,47274,7156
+Morgan County,2002,34542,27499
+Grand County,2002,47871,12959
+Elbert County,2002,66648,21779
+Mesa County,2002,37053,122131
+Delta County,2002,32894,28764
+Summit County,2002,53362,24966
+Adams County,2002,46876,371781
+Chaffee County,2002,35366,16668
+Otero County,2002,28528,19673
+Cheyenne County,2002,32739,2100
+Lincoln County,2002,30160,5857
+Custer County,2002,35938,3667
+Lake County,2002,35947,7819
+Jackson County,2002,31369,1521
+Jefferson County,2002,59903,529191
+Bent County,2002,26485,5903
+Montrose County,2002,36741,35108
+Eagle County,2002,59682,44477
+Conejos County,2002,24959,8299
+Kiowa County,2002,28698,1485
+Las Animas County,2002,29044,15443
+Costilla County,2002,20731,3557
+Boulder County,2002,55810,281941
+Teller County,2002,52383,21276
+Broomfield County,2003,64005,45098
+Washington County,2003,31036,4890
+Park County,2003,52265,16242
+Dolores County,2003,31923,1802
+Kiowa County,2003,30850,1452
+Baca County,2003,26434,4106
+Alamosa County,2003,30994,15125
+Moffat County,2003,45071,13245
+Weld County,2003,44756,210635
+Douglas County,2003,93013,221978
+Cheyenne County,2003,35873,1986
+Hinsdale County,2003,35958,777
+Gilpin County,2003,53044,4867
+Teller County,2003,51532,21270
+Clear Creek County,2003,57211,9335
+Saguache County,2003,23764,6590
+Rio Grande County,2003,33935,12192
+Boulder County,2003,57112,282126
+Yuma County,2003,34494,9827
+Lincoln County,2003,31205,5786
+La Plata County,2003,42846,46258
+Summit County,2003,51610,25313
+Chaffee County,2003,35719,16678
+Montrose County,2003,38454,35674
+Denver County,2003,41036,558351
+Jefferson County,2003,58851,526426
+Ouray County,2003,45521,3941
+Fremont County,2003,33837,47108
+Jackson County,2003,32071,1494
+Garfield County,2003,48153,47388
+Mineral County,2003,37018,894
+Elbert County,2003,66647,21953
+Custer County,2003,37830,3794
+Grand County,2003,48348,13017
+Conejos County,2003,26749,8220
+Prowers County,2003,29411,13992
+Adams County,2003,48633,378785
+Costilla County,2003,21731,3522
+Pitkin County,2003,59624,14923
+Gunnison County,2003,37782,14254
+Logan County,2003,34329,21286
+Las Animas County,2003,30092,15720
+Kit Carson County,2003,32891,8072
+Larimer County,2003,50275,268671
+Arapahoe County,2003,55907,514406
+San Juan County,2003,32640,572
+Phillips County,2003,33697,4449
+Crowley County,2003,23469,5627
+Rio Blanco County,2003,41730,5859
+San Miguel County,2003,45521,7121
+Huerfano County,2003,25751,7934
+Eagle County,2003,58347,45312
+Archuleta County,2003,38677,11167
+Montezuma County,2003,33212,24239
+Morgan County,2003,34892,27634
+Bent County,2003,27369,6144
+El Paso County,2003,49292,551129
+Delta County,2003,33625,28988
+Pueblo County,2003,35130,147931
+Mesa County,2003,38129,124510
+Routt County,2003,53252,20833
+Lake County,2003,35040,7691
+Otero County,2003,29317,19546
+Sedgwick County,2003,27773,2620
+Las Animas County,2004,31798,15588
+Lake County,2004,36033,7697
+Ouray County,2004,47424,4086
+Pueblo County,2004,35693,148578
+San Miguel County,2004,46891,7115
+Alamosa County,2004,31587,15293
+Pitkin County,2004,60662,14834
+Kit Carson County,2004,33610,8098
+Morgan County,2004,36507,27607
+Delta County,2004,35280,29402
+Jefferson County,2004,59060,522889
+Costilla County,2004,22165,3497
+Phillips County,2004,34316,4522
+Arapahoe County,2004,55615,519785
+Yuma County,2004,35687,9671
+Summit County,2004,52220,25177
+Baca County,2004,26580,4050
+Routt County,2004,54539,21077
+Huerfano County,2004,26649,7714
+Custer County,2004,40332,3821
+Mesa County,2004,40045,127095
+Boulder County,2004,57908,284815
+Saguache County,2004,23638,6798
+Lincoln County,2004,31574,5612
+Mineral County,2004,39725,939
+Archuleta County,2004,40592,11374
+Montrose County,2004,40234,36192
+Hinsdale County,2004,38891,809
+Garfield County,2004,50119,47881
+Cheyenne County,2004,36563,1932
+Douglas County,2004,94658,234810
+Gunnison County,2004,38979,14315
+Park County,2004,52684,16420
+Rio Blanco County,2004,43501,5918
+Otero County,2004,30298,19389
+El Paso County,2004,50312,558680
+Dolores County,2004,32357,1797
+Crowley County,2004,24435,5920
+Larimer County,2004,50911,271830
+Montezuma County,2004,34416,24429
+Sedgwick County,2004,27824,2512
+Broomfield County,2004,65375,46591
+Jackson County,2004,33476,1463
+Clear Creek County,2004,58677,9048
+Fremont County,2004,35129,46858
+Eagle County,2004,59037,46317
+Prowers County,2004,29647,13784
+Rio Grande County,2004,34680,12193
+Chaffee County,2004,37226,16725
+Grand County,2004,49907,13186
+Conejos County,2004,27077,8235
+Teller County,2004,53787,21130
+Washington County,2004,32344,4777
+Adams County,2004,50229,386663
+Elbert County,2004,69631,22139
+La Plata County,2004,44078,46905
+Weld County,2004,46241,217706
+San Juan County,2004,32057,580
+Denver County,2004,41767,558506
+Logan County,2004,34691,21122
+Moffat County,2004,46102,13335
+Kiowa County,2004,28851,1394
+Gilpin County,2004,54194,4861
+Bent County,2004,27569,6195
+Alamosa County,2005,32642,15317
+Rio Blanco County,2005,44709,5832
+Adams County,2005,50798,397463
+Costilla County,2005,21920,3370
+San Miguel County,2005,50324,7193
+Elbert County,2005,69074,22374
+Prowers County,2005,31042,13684
+Denver County,2005,42576,561323
+Teller County,2005,56557,21282
+Archuleta County,2005,41860,11623
+Logan County,2005,36134,20849
+Moffat County,2005,46983,13122
+Lake County,2005,38960,7653
+Las Animas County,2005,32246,15608
+Morgan County,2005,35805,27567
+Yuma County,2005,37089,9613
+Summit County,2005,56275,25287
+Dolores County,2005,35384,1803
+Clear Creek County,2005,61937,9011
+Montezuma County,2005,35329,24468
+Kit Carson County,2005,35157,8010
+Washington County,2005,39779,4718
+Fremont County,2005,36403,46930
+San Juan County,2005,33462,565
+Delta County,2005,35358,29491
+Montrose County,2005,38911,37069
+Mineral County,2005,40134,923
+Routt County,2005,58482,21282
+Ouray County,2005,48855,4160
+Grand County,2005,51043,13114
+Gunnison County,2005,40436,14403
+Gilpin County,2005,56911,4939
+Garfield County,2005,52189,49177
+Mesa County,2005,39750,129457
+Arapahoe County,2005,55159,525293
+Baca County,2005,28804,3979
+Hinsdale County,2005,42012,792
+Jefferson County,2005,60996,522007
+Rio Grande County,2005,34215,12043
+Cheyenne County,2005,39252,1875
+Crowley County,2005,27107,5939
+Bent County,2005,30166,6169
+Douglas County,2005,90143,246058
+Phillips County,2005,34664,4524
+Broomfield County,2005,67067,48490
+El Paso County,2005,50878,567103
+Otero County,2005,32866,19184
+Boulder County,2005,58334,286545
+Larimer County,2005,49188,275477
+Custer County,2005,40946,3879
+Lincoln County,2005,34960,5471
+Huerfano County,2005,28334,7763
+Jackson County,2005,34281,1422
+Sedgwick County,2005,29871,2471
+La Plata County,2005,46881,47792
+Saguache County,2005,26081,6822
+Weld County,2005,48338,225856
+Pueblo County,2005,37129,149677
+Chaffee County,2005,40120,16710
+Kiowa County,2005,31289,1385
+Park County,2005,55589,16560
+Pitkin County,2005,57615,14905
+Conejos County,2005,28010,8190
+Eagle County,2005,63848,47719
+Cheyenne County,2006,37794,1833
+Rio Blanco County,2006,47150,6033
+Phillips County,2006,36380,4482
+Chaffee County,2006,39263,16626
+Sedgwick County,2006,30763,2416
+Otero County,2006,33310,18967
+Park County,2006,60208,16656
+Weld County,2006,52037,234387
+Eagle County,2006,65923,49112
+Broomfield County,2006,71714,51454
+San Juan County,2006,34987,574
+Summit County,2006,60332,25745
+Las Animas County,2006,35008,15725
+Delta County,2006,37343,29899
+Washington County,2006,34115,4666
+Jackson County,2006,36073,1383
+Crowley County,2006,28375,6242
+Boulder County,2006,62322,291449
+Custer County,2006,41811,3863
+Morgan County,2006,40266,27639
+Garfield County,2006,59503,51111
+Alamosa County,2006,33726,15288
+Gunnison County,2006,41434,14656
+Kit Carson County,2006,38751,7948
+Rio Grande County,2006,35842,11839
+Yuma County,2006,38067,9604
+Huerfano County,2006,28778,7774
+Fremont County,2006,37831,47203
+Adams County,2006,50930,409532
+Lincoln County,2006,35524,5329
+Clear Creek County,2006,61744,8869
+La Plata County,2006,50561,48834
+Teller County,2006,57686,21440
+Montezuma County,2006,37389,24907
+Conejos County,2006,28591,8083
+Douglas County,2006,93273,259881
+Jefferson County,2006,60784,524507
+Moffat County,2006,50285,13298
+Hinsdale County,2006,42406,816
+Dolores County,2006,35877,1892
+Archuleta County,2006,46904,12096
+Routt County,2006,61128,21722
+San Miguel County,2006,54850,7186
+Larimer County,2006,54241,281215
+Kiowa County,2006,33032,1360
+Gilpin County,2006,60235,5034
+Montrose County,2006,42016,38098
+Mineral County,2006,42228,916
+Ouray County,2006,51747,4219
+Lake County,2006,40443,7666
+Logan County,2006,37885,20895
+Grand County,2006,54619,13373
+Baca County,2006,29443,3912
+Pitkin County,2006,67950,14905
+El Paso County,2006,53234,579710
+Mesa County,2006,42791,133651
+Denver County,2006,41357,568692
+Costilla County,2006,23000,3341
+Arapahoe County,2006,55804,532347
+Elbert County,2006,75374,22648
+Prowers County,2006,32003,13370
+Bent County,2006,30475,6070
+Saguache County,2006,28213,6842
+Pueblo County,2006,36999,151814
+Douglas County,2007,94042,271955
+Crowley County,2007,30896,6471
+Conejos County,2007,30453,8006
+Eagle County,2007,73440,50568
+Delta County,2007,39082,30219
+Saguache County,2007,30193,6864
+Chaffee County,2007,42464,16858
+Garfield County,2007,64173,52965
+Rio Grande County,2007,37350,11621
+Montrose County,2007,45254,39452
+Archuleta County,2007,53200,12479
+Custer County,2007,44193,3964
+Bent County,2007,32043,5785
+Lincoln County,2007,36252,5247
+Kit Carson County,2007,37288,7871
+Prowers County,2007,34581,13006
+Lake County,2007,41492,7854
+Hinsdale County,2007,47010,834
+Las Animas County,2007,36607,15815
+Adams County,2007,52544,419607
+Dolores County,2007,36797,1889
+Ouray County,2007,55074,4400
+Teller County,2007,59075,21749
+Pitkin County,2007,72727,15099
+La Plata County,2007,53720,49668
+Mesa County,2007,49926,138289
+Boulder County,2007,64299,295691
+Broomfield County,2007,70168,53664
+Baca County,2007,30397,3840
+Fremont County,2007,34630,47340
+Montezuma County,2007,41425,25108
+Pueblo County,2007,40570,154348
+Gunnison County,2007,49333,14988
+Jefferson County,2007,64548,528396
+Rio Blanco County,2007,58841,6198
+Yuma County,2007,41570,9580
+Huerfano County,2007,29783,7705
+Logan County,2007,40874,20908
+Routt County,2007,63797,22340
+Costilla County,2007,25164,3303
+Kiowa County,2007,34084,1305
+Alamosa County,2007,35988,15297
+El Paso County,2007,55253,585518
+Larimer County,2007,52968,286927
+Sedgwick County,2007,32086,2330
+Gilpin County,2007,62746,5070
+San Juan County,2007,38257,574
+Summit County,2007,68685,26234
+San Miguel County,2007,59973,7459
+Otero County,2007,31996,18706
+Jackson County,2007,39007,1369
+Cheyenne County,2007,44053,1781
+Mineral County,2007,44031,963
+Grand County,2007,59118,13575
+Arapahoe County,2007,59299,543414
+Denver County,2007,44881,578789
+Washington County,2007,38149,4597
+Morgan County,2007,43540,27552
+Phillips County,2007,39430,4469
+Park County,2007,61987,16964
+Clear Creek County,2007,65137,8933
+Moffat County,2007,54323,13555
+Elbert County,2007,77037,22684
+Weld County,2007,52228,242250
+Mesa County,2008,54337,141905
+Moffat County,2008,56427,13822
+Summit County,2008,64813,26724
+Garfield County,2008,67063,54838
+Pueblo County,2008,42005,156009
+Douglas County,2008,100493,281138
+Washington County,2008,38982,4472
+Costilla County,2008,25208,3246
+Gilpin County,2008,62332,5238
+Grand County,2008,58895,13775
+Otero County,2008,33234,18639
+Saguache County,2008,33198,7018
+Larimer County,2008,56701,292889
+El Paso County,2008,59061,595359
+Clear Creek County,2008,57227,8910
+Elbert County,2008,75990,22938
+Prowers County,2008,35730,12989
+Teller County,2008,58457,21616
+Phillips County,2008,42087,4448
+Sedgwick County,2008,35350,2348
+Mineral County,2008,46394,950
+Custer County,2008,50660,3944
+Hinsdale County,2008,50692,818
+Denver County,2008,46305,593086
+Rio Grande County,2008,37353,11632
+San Juan County,2008,40252,571
+Archuleta County,2008,51058,12497
+Pitkin County,2008,72088,15616
+Montrose County,2008,45817,40484
+Rio Blanco County,2008,57856,6318
+Arapahoe County,2008,59320,554372
+Chaffee County,2008,45916,17000
+Alamosa County,2008,34681,15441
+Crowley County,2008,31603,6498
+Adams County,2008,56601,429597
+Montezuma County,2008,44860,25150
+Huerfano County,2008,31410,7765
+Park County,2008,64471,16997
+Routt County,2008,63085,22965
+Conejos County,2008,30747,7980
+Logan County,2008,42163,20718
+Eagle County,2008,73482,52019
+Dolores County,2008,43760,1954
+Ouray County,2008,59725,4588
+Yuma County,2008,43560,9620
+Cheyenne County,2008,46017,1779
+Kiowa County,2008,38581,1272
+Boulder County,2008,66760,300452
+Lake County,2008,48280,7999
+Kit Carson County,2008,39997,8128
+Lincoln County,2008,40384,5208
+Weld County,2008,55845,248852
+Jackson County,2008,40413,1340
+Broomfield County,2008,77855,54813
+Bent County,2008,33187,6058
+Baca County,2008,31963,3782
+Gunnison County,2008,46972,15222
+Delta County,2008,43621,30834
+La Plata County,2008,56427,50633
+Morgan County,2008,43246,27540
+Jefferson County,2008,66627,533295
+San Miguel County,2008,61074,7527
+Fremont County,2008,39155,47677
+Las Animas County,2008,38876,15901
+Las Animas County,2009,36575,16020
+Alamosa County,2009,35960,15424
+Summit County,2009,65952,27239
+Park County,2009,61127,16762
+Conejos County,2009,29594,7844
+Bent County,2009,30890,6560
+Adams County,2009,53779,440994
+Weld County,2009,54578,254759
+Montezuma County,2009,40859,25368
+Lincoln County,2009,37439,5169
+Jefferson County,2009,66059,536922
+Huerfano County,2009,30176,7558
+Larimer County,2009,56281,298382
+Moffat County,2009,54615,13980
+Clear Creek County,2009,64241,8706
+Phillips County,2009,40178,4472
+Jackson County,2009,41337,1369
+Logan County,2009,39953,20772
+Dolores County,2009,43248,1940
+Kit Carson County,2009,40677,8402
+Archuleta County,2009,46013,12430
+San Juan County,2009,38253,555
+Rio Blanco County,2009,59017,6534
+Gilpin County,2009,59632,5604
+Ouray County,2009,59810,4602
+Teller County,2009,53928,21685
+Gunnison County,2009,45711,15350
+Costilla County,2009,24758,3148
+Kiowa County,2009,36931,1238
+Routt County,2009,64892,23469
+Mesa County,2009,52290,146093
+Sedgwick County,2009,35336,2326
+Morgan County,2009,41441,27850
+Yuma County,2009,42813,9734
+Mineral County,2009,43172,912
+El Paso County,2009,55621,604542
+Arapahoe County,2009,56099,565360
+Pueblo County,2009,39016,157224
+Fremont County,2009,39714,47815
+Lake County,2009,43935,8046
+Pitkin County,2009,69352,16043
+San Miguel County,2009,60115,7558
+Garfield County,2009,62716,56298
+Rio Grande County,2009,37993,11581
+Saguache County,2009,28866,7097
+Eagle County,2009,74220,53653
+Washington County,2009,40778,4420
+Denver County,2009,46693,610345
+Grand County,2009,58209,13911
+Baca County,2009,32660,3723
+Otero County,2009,30373,18670
+Hinsdale County,2009,48372,821
+Chaffee County,2009,42602,17156
+Elbert County,2009,77123,23287
+Montrose County,2009,48108,41412
+Prowers County,2009,33646,12982
+Delta County,2009,41528,31322
+La Plata County,2009,56610,51464
+Broomfield County,2009,77606,55990
+Boulder County,2009,63757,303482
+Crowley County,2009,29104,6403
+Custer County,2009,45898,4000
+Cheyenne County,2009,42026,1746
+Douglas County,2009,100447,288225
+Park County,2010,66400,16206
+Kiowa County,2010,37600,1398
+Douglas County,2010,97806,285465
+Costilla County,2010,27305,3524
+Montezuma County,2010,41074,25535
+Cheyenne County,2010,44464,1836
+Gunnison County,2010,47698,15324
+Phillips County,2010,44064,4442
+Pueblo County,2010,39107,159063
+Jackson County,2010,43691,1394
+Baca County,2010,33086,3788
+Hinsdale County,2010,48195,843
+El Paso County,2010,51553,622263
+Denver County,2010,45415,600158
+Summit County,2010,60087,27994
+Broomfield County,2010,76006,55889
+Eagle County,2010,69182,52197
+La Plata County,2010,53029,51334
+Washington County,2010,40914,4814
+Saguache County,2010,30985,6108
+Custer County,2010,42951,4255
+Clear Creek County,2010,64822,9088
+Pitkin County,2010,65568,17148
+Elbert County,2010,78550,23086
+Lincoln County,2010,39230,5467
+Rio Grande County,2010,37300,11982
+Prowers County,2010,34488,12551
+Grand County,2010,55818,14843
+Garfield County,2010,60456,56389
+Gilpin County,2010,63024,5441
+Delta County,2010,40288,30952
+Moffat County,2010,55913,13795
+Morgan County,2010,43209,28159
+Lake County,2010,43565,7310
+Las Animas County,2010,37700,15507
+Montrose County,2010,44002,41276
+Kit Carson County,2010,39498,8270
+Alamosa County,2010,36339,15445
+Bent County,2010,33702,6499
+Teller County,2010,59966,23350
+Rio Blanco County,2010,59308,6666
+Otero County,2010,34360,18831
+Yuma County,2010,43361,10043
+San Miguel County,2010,62368,7359
+Logan County,2010,40637,22709
+Archuleta County,2010,46165,12084
+Fremont County,2010,40543,46824
+Boulder County,2010,62215,294567
+Routt County,2010,60506,23509
+Ouray County,2010,54920,4436
+Mesa County,2010,47324,146723
+Huerfano County,2010,31696,6711
+Crowley County,2010,34569,5823
+Mineral County,2010,45645,712
+Adams County,2010,52785,441603
+Dolores County,2010,40511,2064
+Weld County,2010,52334,252825
+Larimer County,2010,54739,299630
+Arapahoe County,2010,58152,572003
+San Juan County,2010,37001,699
+Jefferson County,2010,64181,534543
+Chaffee County,2010,42420,17809
+Conejos County,2010,32254,8256
+Sedgwick County,2010,36749,2379
+Crowley County,2011,30279,
+Rio Blanco County,2011,60022,
+Douglas County,2011,95973,
+Denver County,2011,47584,
+Larimer County,2011,55501,
+Archuleta County,2011,48043,
+Summit County,2011,60397,
+Teller County,2011,60313,
+Routt County,2011,64998,
+Otero County,2011,30420,
+Eagle County,2011,67190,
+Montrose County,2011,43035,
+Pitkin County,2011,69229,
+El Paso County,2011,54857,
+Dolores County,2011,39650,
+Yuma County,2011,46246,
+Bent County,2011,35522,
+Grand County,2011,56980,
+Kiowa County,2011,41427,
+Park County,2011,58565,
+Lake County,2011,42768,
+San Miguel County,2011,57578,
+La Plata County,2011,52276,
+Saguache County,2011,30746,
+Kit Carson County,2011,43078,
+Adams County,2011,52429,
+Jackson County,2011,43206,
+Cheyenne County,2011,46965,
+Lincoln County,2011,42734,
+Montezuma County,2011,41817,
+Gilpin County,2011,60537,
+Logan County,2011,43823,
+Elbert County,2011,78029,
+Boulder County,2011,68101,
+Jefferson County,2011,64412,
+Mesa County,2011,47778,
+Ouray County,2011,57922,
+Delta County,2011,41442,
+Phillips County,2011,43826,
+San Juan County,2011,36547,
+Hinsdale County,2011,49024,
+Sedgwick County,2011,37511,
+Fremont County,2011,41493,
+Mineral County,2011,46956,
+Baca County,2011,34168,
+Broomfield County,2011,79051,
+Moffat County,2011,52257,
+Las Animas County,2011,40191,
+Rio Grande County,2011,37472,
+Chaffee County,2011,44156,
+Weld County,2011,51773,
+Morgan County,2011,41246,
+Garfield County,2011,57617,
+Conejos County,2011,32588,
+Prowers County,2011,36563,
+Pueblo County,2011,40764,
+Washington County,2011,43433,
+Huerfano County,2011,30655,
+Clear Creek County,2011,65420,
+Arapahoe County,2011,57042,
+Costilla County,2011,26125,
+Gunnison County,2011,43069,
+Custer County,2011,45791,
+Alamosa County,2011,36870,
+Pueblo County,2012,41209,
+Phillips County,2012,46216,
+Lincoln County,2012,38098,
+Morgan County,2012,44577,
+Las Animas County,2012,38713,
+Clear Creek County,2012,65359,
+Archuleta County,2012,46127,
+Montezuma County,2012,40351,
+El Paso County,2012,55312,
+Moffat County,2012,57023,
+Pitkin County,2012,67057,
+Garfield County,2012,54088,
+Mesa County,2012,46940,
+Yuma County,2012,45059,
+Gunnison County,2012,49861,
+Sedgwick County,2012,37633,
+Bent County,2012,33540,
+Crowley County,2012,30460,
+Huerfano County,2012,31574,
+Elbert County,2012,81528,
+Washington County,2012,43446,
+Douglas County,2012,98426,
+Adams County,2012,55695,
+Routt County,2012,62271,
+Costilla County,2012,26075,
+Custer County,2012,46744,
+Broomfield County,2012,81040,
+Weld County,2012,55332,
+Cheyenne County,2012,51093,
+Park County,2012,60731,
+Prowers County,2012,36580,
+Grand County,2012,56191,
+Alamosa County,2012,37731,
+Gilpin County,2012,61447,
+Baca County,2012,37775,
+Conejos County,2012,31970,
+Kiowa County,2012,40216,
+Dolores County,2012,39254,
+Eagle County,2012,69870,
+Lake County,2012,45504,
+Rio Blanco County,2012,57922,
+Denver County,2012,50455,
+Larimer County,2012,56132,
+Rio Grande County,2012,37837,
+Delta County,2012,41208,
+Summit County,2012,61286,
+Montrose County,2012,45226,
+Arapahoe County,2012,60525,
+Chaffee County,2012,44651,
+Kit Carson County,2012,44059,
+Otero County,2012,35026,
+La Plata County,2012,55888,
+Jefferson County,2012,67401,
+Jackson County,2012,43190,
+Saguache County,2012,30197,
+Fremont County,2012,40809,
+Boulder County,2012,66894,
+Teller County,2012,59558,
+Hinsdale County,2012,50177,
+Ouray County,2012,61657,
+Mineral County,2012,47169,
+San Juan County,2012,35734,
+Logan County,2012,42740,
+San Miguel County,2012,53477,
+Custer County,2013,47268,
+Crowley County,2013,31477,
+Boulder County,2013,71405,
+Rio Blanco County,2013,59364,
+Bent County,2013,34440,
+Denver County,2013,51156,
+Washington County,2013,45572,
+Adams County,2013,54876,
+Jackson County,2013,43549,
+Larimer County,2013,59337,
+Cheyenne County,2013,50379,
+Teller County,2013,62725,
+Delta County,2013,41730,
+Yuma County,2013,45487,
+Hinsdale County,2013,52188,
+Las Animas County,2013,38547,
+Kit Carson County,2013,39633,
+El Paso County,2013,57072,
+Douglas County,2013,105192,
+Mesa County,2013,48108,
+Routt County,2013,63763,
+Montrose County,2013,43946,
+San Miguel County,2013,53674,
+Logan County,2013,43561,
+Otero County,2013,36811,
+Jefferson County,2013,68161,
+Elbert County,2013,80972,
+Dolores County,2013,42416,
+Weld County,2013,58404,
+Lincoln County,2013,41510,
+Pueblo County,2013,41352,
+Sedgwick County,2013,39980,
+Clear Creek County,2013,63489,
+Saguache County,2013,35310,
+Archuleta County,2013,44417,
+Lake County,2013,47547,
+Eagle County,2013,78517,
+Alamosa County,2013,37484,
+Garfield County,2013,57364,
+Grand County,2013,57312,
+Moffat County,2013,58890,
+Costilla County,2013,28233,
+Rio Grande County,2013,39834,
+Arapahoe County,2013,61092,
+Chaffee County,2013,48012,
+Montezuma County,2013,43655,
+Gunnison County,2013,48391,
+Summit County,2013,63236,
+Park County,2013,57510,
+Gilpin County,2013,64962,
+Fremont County,2013,41412,
+Broomfield County,2013,79117,
+Prowers County,2013,38830,
+Baca County,2013,35787,
+Morgan County,2013,46332,
+Conejos County,2013,34923,
+Huerfano County,2013,32418,
+La Plata County,2013,58675,
+Phillips County,2013,46805,
+Ouray County,2013,58137,
+Mineral County,2013,50286,
+Kiowa County,2013,42378,
+San Juan County,2013,41683,
+Pitkin County,2013,71012,
+Chaffee County,2014,48840,
+Arapahoe County,2014,65359,
+Huerfano County,2014,32750,
+Washington County,2014,45784,
+Las Animas County,2014,39625,
+Adams County,2014,59316,
+Douglas County,2014,107250,
+Routt County,2014,66846,
+La Plata County,2014,60658,
+Logan County,2014,45439,
+Delta County,2014,45283,
+Prowers County,2014,39184,
+Broomfield County,2014,85885,
+Lake County,2014,46765,
+Dolores County,2014,44235,
+Denver County,2014,54872,
+Weld County,2014,61501,
+Larimer County,2014,57659,
+El Paso County,2014,59286,
+Conejos County,2014,33998,
+Jefferson County,2014,70687,
+Phillips County,2014,47006,
+Pueblo County,2014,41382,
+Rio Grande County,2014,40593,
+Sedgwick County,2014,44562,
+Bent County,2014,35424,
+Eagle County,2014,76661,
+Alamosa County,2014,38140,
+Mesa County,2014,50106,
+Lincoln County,2014,41248,
+Custer County,2014,48368,
+Gilpin County,2014,64752,
+Boulder County,2014,71546,
+Rio Blanco County,2014,63184,
+Moffat County,2014,56193,
+Grand County,2014,59379,
+Montezuma County,2014,44163,
+Kiowa County,2014,42310,
+Gunnison County,2014,48940,
+Jackson County,2014,45073,
+Costilla County,2014,27882,
+San Miguel County,2014,59603,
+Morgan County,2014,47631,
+Mineral County,2014,51257,
+Pitkin County,2014,73274,
+Crowley County,2014,32570,
+Hinsdale County,2014,51241,
+Garfield County,2014,62529,
+Otero County,2014,33043,
+Kit Carson County,2014,46394,
+Ouray County,2014,57242,
+Baca County,2014,36294,
+Archuleta County,2014,44508,
+Clear Creek County,2014,69115,
+Park County,2014,58487,
+Saguache County,2014,31227,
+Elbert County,2014,83603,
+San Juan County,2014,40006,
+Cheyenne County,2014,52273,
+Yuma County,2014,46838,
+Fremont County,2014,41385,
+Montrose County,2014,46336,
+Summit County,2014,68352,
+Teller County,2014,62380,
+Boulder County,2015,72392,
+Archuleta County,2015,50361,
+Yuma County,2015,48934,
+Rio Grande County,2015,40259,
+Ouray County,2015,60402,
+Bent County,2015,36630,
+Otero County,2015,34970,
+Moffat County,2015,59173,
+Gilpin County,2015,67389,
+Custer County,2015,43995,
+Rio Blanco County,2015,61426,
+Hinsdale County,2015,58613,
+Jefferson County,2015,71209,
+Baca County,2015,35405,
+Routt County,2015,70989,
+Elbert County,2015,90270,
+Crowley County,2015,35405,
+Park County,2015,63319,
+San Miguel County,2015,62793,
+Washington County,2015,47592,
+Saguache County,2015,34209,
+Adams County,2015,62991,
+Montrose County,2015,46860,
+Broomfield County,2015,86548,
+Las Animas County,2015,38858,
+Lincoln County,2015,43188,
+Fremont County,2015,41967,
+Cheyenne County,2015,50620,
+Arapahoe County,2015,67062,
+Chaffee County,2015,50947,
+Alamosa County,2015,40067,
+Phillips County,2015,48562,
+Kit Carson County,2015,44090,
+Kiowa County,2015,42108,
+Grand County,2015,59885,
+Sedgwick County,2015,40325,
+Garfield County,2015,64487,
+La Plata County,2015,60732,
+Delta County,2015,42586,
+Pueblo County,2015,40540,
+Teller County,2015,66191,
+Mineral County,2015,50481,
+Douglas County,2015,109926,
+Morgan County,2015,49087,
+Summit County,2015,69633,
+Huerfano County,2015,33098,
+Conejos County,2015,37102,
+Jackson County,2015,46905,
+Gunnison County,2015,47619,
+Weld County,2015,69434,
+Mesa County,2015,51449,
+Denver County,2015,57886,
+Prowers County,2015,41348,
+Larimer County,2015,64935,
+Costilla County,2015,27944,
+Clear Creek County,2015,67262,
+El Paso County,2015,60050,
+Lake County,2015,45913,
+Logan County,2015,46306,
+Dolores County,2015,44829,
+Pitkin County,2015,76663,
+Eagle County,2015,75191,
+San Juan County,2015,43489,
+Montezuma County,2015,42975,
+Pitkin County,2016,74576,
+Moffat County,2016,54151,
+Summit County,2016,70265,
+Kit Carson County,2016,48272,
+Cheyenne County,2016,50558,
+Crowley County,2016,35873,
+Rio Blanco County,2016,58980,
+Weld County,2016,63609,
+Montrose County,2016,43285,
+Fremont County,2016,46372,
+Lincoln County,2016,42969,
+Hinsdale County,2016,51717,
+Delta County,2016,41798,
+Gilpin County,2016,65472,
+Las Animas County,2016,38224,
+Dolores County,2016,46791,
+Costilla County,2016,27211,
+Teller County,2016,63966,
+Park County,2016,68535,
+Conejos County,2016,34390,
+Elbert County,2016,86693,
+Montezuma County,2016,40679,
+Otero County,2016,36773,
+San Juan County,2016,44652,
+Routt County,2016,71322,
+Ouray County,2016,66813,
+Baca County,2016,34070,
+Sedgwick County,2016,42518,
+El Paso County,2016,63610,
+Grand County,2016,63875,
+Garfield County,2016,69161,
+Broomfield County,2016,86870,
+Logan County,2016,49407,
+Mineral County,2016,52641,
+Douglas County,2016,112399,
+Alamosa County,2016,37057,
+Clear Creek County,2016,68699,
+Denver County,2016,61038,
+Adams County,2016,65442,
+Saguache County,2016,33973,
+Washington County,2016,46304,
+Yuma County,2016,48963,
+San Miguel County,2016,67251,
+Huerfano County,2016,34626,
+La Plata County,2016,58499,
+Prowers County,2016,40164,
+Jefferson County,2016,74342,
+Archuleta County,2016,51998,
+Kiowa County,2016,43951,
+Mesa County,2016,49825,
+Boulder County,2016,74772,
+Bent County,2016,33951,
+Larimer County,2016,66561,
+Chaffee County,2016,49877,
+Morgan County,2016,49129,
+Custer County,2016,52021,
+Jackson County,2016,46671,
+Phillips County,2016,49046,
+Arapahoe County,2016,70866,
+Lake County,2016,49064,
+Eagle County,2016,79556,
+Pueblo County,2016,44644,
+Gunnison County,2016,53753,
+Rio Grande County,2016,41128,

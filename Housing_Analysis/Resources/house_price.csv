@@ -1,0 +1,1281 @@
+County,Year,House_price
+Adams County,1997,128133.4056
+Adams County,1998,138042.4722
+Adams County,1999,153253.5333
+Adams County,2000,175973.1778
+Adams County,2001,201303.3556
+Adams County,2002,213591.8667
+Adams County,2003,218562.1333
+Adams County,2004,219396.2833
+Adams County,2005,223075.4278
+Adams County,2006,223455.2611
+Adams County,2007,214908.4444
+Adams County,2008,193579.5722
+Adams County,2009,183917.5889
+Adams County,2010,186966.95
+Adams County,2011,176663.4056
+Adams County,2012,181639.65
+Adams County,2013,204357.1778
+Adams County,2014,228642.0944
+Adams County,2015,263220.0389
+Adams County,2016,296396.3889
+Alamosa County,1997,67630.875
+Alamosa County,1998,66069.17778
+Alamosa County,1999,69118.44444
+Alamosa County,2000,73833.47222
+Alamosa County,2001,77740
+Alamosa County,2002,82612.38889
+Alamosa County,2003,85057.94872
+Alamosa County,2004,88569.77778
+Alamosa County,2005,91630
+Alamosa County,2006,93505.58333
+Alamosa County,2007,96681.47222
+Alamosa County,2008,96776.72222
+Alamosa County,2009,97040.5
+Alamosa County,2010,95653.25
+Alamosa County,2011,93893.27778
+Alamosa County,2012,98326.16667
+Alamosa County,2013,106295.5556
+Alamosa County,2014,113325.0833
+Alamosa County,2015,126939.1667
+Alamosa County,2016,138148.7778
+Arapahoe County,1997,269897.3036
+Arapahoe County,1998,281234.131
+Arapahoe County,1999,314151.2202
+Arapahoe County,2000,360547.9464
+Arapahoe County,2001,409783.4345
+Arapahoe County,2002,428854.6964
+Arapahoe County,2003,434402.7033
+Arapahoe County,2004,440531.5238
+Arapahoe County,2005,458011.5119
+Arapahoe County,2006,469848.5655
+Arapahoe County,2007,470148.1429
+Arapahoe County,2008,449412.006
+Arapahoe County,2009,441102.8988
+Arapahoe County,2010,440048.7738
+Arapahoe County,2011,420175.9762
+Arapahoe County,2012,430249.125
+Arapahoe County,2013,469030.7976
+Arapahoe County,2014,496182.7679
+Arapahoe County,2015,553127.5595
+Arapahoe County,2016,604530.1786
+Archuleta County,1997,nan
+Archuleta County,1998,nan
+Archuleta County,1999,nan
+Archuleta County,2000,nan
+Archuleta County,2001,nan
+Archuleta County,2002,nan
+Archuleta County,2003,nan
+Archuleta County,2004,nan
+Archuleta County,2005,196484.4
+Archuleta County,2006,219535.1667
+Archuleta County,2007,229154
+Archuleta County,2008,281004.6667
+Archuleta County,2009,279217.7917
+Archuleta County,2010,269932.5
+Archuleta County,2011,265868.625
+Archuleta County,2012,267919.4583
+Archuleta County,2013,281679.1667
+Archuleta County,2014,303034.0417
+Archuleta County,2015,334200.625
+Archuleta County,2016,355895.3333
+Baca County,1997,nan
+Baca County,1998,nan
+Baca County,1999,nan
+Baca County,2000,nan
+Baca County,2001,nan
+Baca County,2002,nan
+Baca County,2003,nan
+Baca County,2004,nan
+Baca County,2005,nan
+Baca County,2006,58948
+Baca County,2007,57712
+Baca County,2008,43461.70833
+Baca County,2009,43952.41667
+Baca County,2010,41644.33333
+Baca County,2011,40941.125
+Baca County,2012,42373.25
+Baca County,2013,44096.54167
+Baca County,2014,49411.41667
+Baca County,2015,56423.41667
+Baca County,2016,62451.16667
+Bent County,1997,nan
+Bent County,1998,nan
+Bent County,1999,nan
+Bent County,2000,nan
+Bent County,2001,nan
+Bent County,2002,nan
+Bent County,2003,nan
+Bent County,2004,nan
+Bent County,2005,56247.33333
+Bent County,2006,56253.13889
+Bent County,2007,55830.91667
+Bent County,2008,57921.83333
+Bent County,2009,56075.08333
+Bent County,2010,53065.91667
+Bent County,2011,49752.16667
+Bent County,2012,48931.25
+Bent County,2013,53157.22222
+Bent County,2014,56971.05556
+Bent County,2015,62752.47222
+Bent County,2016,69980.72222
+Boulder County,1997,189895.2179
+Boulder County,1998,202819.4808
+Boulder County,1999,225650.4679
+Boulder County,2000,258851.7244
+Boulder County,2001,295944.9167
+Boulder County,2002,310542.6795
+Boulder County,2003,309111.1538
+Boulder County,2004,317560.7756
+Boulder County,2005,328216.7692
+Boulder County,2006,337377.0769
+Boulder County,2007,337270.6987
+Boulder County,2008,339331.9359
+Boulder County,2009,335253.5
+Boulder County,2010,332609.4295
+Boulder County,2011,328155.6026
+Boulder County,2012,329063.2115
+Boulder County,2013,344851.1218
+Boulder County,2014,369085.3333
+Boulder County,2015,404136.2885
+Boulder County,2016,452788.4744
+Broomfield County,1997,183467.75
+Broomfield County,1998,194147.5833
+Broomfield County,1999,217896.5833
+Broomfield County,2000,244054.3333
+Broomfield County,2001,270337.9167
+Broomfield County,2002,274604.5
+Broomfield County,2003,280876.6154
+Broomfield County,2004,288632.5833
+Broomfield County,2005,294996.25
+Broomfield County,2006,298929.5833
+Broomfield County,2007,297739.1667
+Broomfield County,2008,292330.0833
+Broomfield County,2009,291792
+Broomfield County,2010,282816.25
+Broomfield County,2011,276362.6667
+Broomfield County,2012,281535.3333
+Broomfield County,2013,303451
+Broomfield County,2014,330901
+Broomfield County,2015,363728.3333
+Broomfield County,2016,406099.3333
+Chaffee County,1997,nan
+Chaffee County,1998,nan
+Chaffee County,1999,nan
+Chaffee County,2000,nan
+Chaffee County,2001,nan
+Chaffee County,2002,nan
+Chaffee County,2003,nan
+Chaffee County,2004,nan
+Chaffee County,2005,203499.2208
+Chaffee County,2006,214001.9792
+Chaffee County,2007,223992
+Chaffee County,2008,228317.125
+Chaffee County,2009,226040.2917
+Chaffee County,2010,220861.6458
+Chaffee County,2011,219015.375
+Chaffee County,2012,222104.0417
+Chaffee County,2013,235149.25
+Chaffee County,2014,254426.7292
+Chaffee County,2015,279130.4792
+Chaffee County,2016,305932.5417
+Cheyenne County,1997,nan
+Cheyenne County,1998,nan
+Cheyenne County,1999,nan
+Cheyenne County,2000,nan
+Cheyenne County,2001,nan
+Cheyenne County,2002,nan
+Cheyenne County,2003,nan
+Cheyenne County,2004,nan
+Cheyenne County,2005,nan
+Cheyenne County,2006,nan
+Cheyenne County,2007,nan
+Cheyenne County,2008,65876.86111
+Cheyenne County,2009,63355.13889
+Cheyenne County,2010,62401.22222
+Cheyenne County,2011,63987.52778
+Cheyenne County,2012,83698.70833
+Cheyenne County,2013,85536.625
+Cheyenne County,2014,90876.375
+Cheyenne County,2015,101727.6875
+Cheyenne County,2016,110930.25
+Clear Creek County,1997,nan
+Clear Creek County,1998,nan
+Clear Creek County,1999,145299.3333
+Clear Creek County,2000,161083.75
+Clear Creek County,2001,170541.5833
+Clear Creek County,2002,187841.1667
+Clear Creek County,2003,193020.3846
+Clear Creek County,2004,199351.1667
+Clear Creek County,2005,188289.228
+Clear Creek County,2006,184212.6389
+Clear Creek County,2007,185968.6111
+Clear Creek County,2008,187061.7778
+Clear Creek County,2009,182400.4444
+Clear Creek County,2010,174930.375
+Clear Creek County,2011,171039.8611
+Clear Creek County,2012,172738.5417
+Clear Creek County,2013,183208.0139
+Clear Creek County,2014,198068.1389
+Clear Creek County,2015,217298.9028
+Clear Creek County,2016,236831.9167
+Conejos County,1997,42011.125
+Conejos County,1998,45913.875
+Conejos County,1999,52782.83333
+Conejos County,2000,60319.375
+Conejos County,2001,66502.33333
+Conejos County,2002,68629.45833
+Conejos County,2003,70072.80769
+Conejos County,2004,71762.79167
+Conejos County,2005,69128.86111
+Conejos County,2006,72792.22222
+Conejos County,2007,77455.33333
+Conejos County,2008,75063.22917
+Conejos County,2009,73046.64583
+Conejos County,2010,73055.29167
+Conejos County,2011,72392.5
+Conejos County,2012,71250.83333
+Conejos County,2013,77402.91667
+Conejos County,2014,80941.60417
+Conejos County,2015,89971.83333
+Conejos County,2016,98238.3125
+Costilla County,1997,nan
+Costilla County,1998,nan
+Costilla County,1999,nan
+Costilla County,2000,nan
+Costilla County,2001,nan
+Costilla County,2002,nan
+Costilla County,2003,66218
+Costilla County,2004,68553.66667
+Costilla County,2005,71491.08333
+Costilla County,2006,75416.33333
+Costilla County,2007,77226.83333
+Costilla County,2008,77239.41667
+Costilla County,2009,74286.58333
+Costilla County,2010,73601.08333
+Costilla County,2011,75225.16667
+Costilla County,2012,75427.83333
+Costilla County,2013,83403.27462
+Costilla County,2014,81368.70833
+Costilla County,2015,85957.29167
+Costilla County,2016,93928.1875
+Crowley County,1997,nan
+Crowley County,1998,nan
+Crowley County,1999,nan
+Crowley County,2000,nan
+Crowley County,2001,nan
+Crowley County,2002,nan
+Crowley County,2003,nan
+Crowley County,2004,nan
+Crowley County,2005,41456.85714
+Crowley County,2006,40692.25
+Crowley County,2007,42163.91667
+Crowley County,2008,44034.66667
+Crowley County,2009,42407.9697
+Crowley County,2010,39721.83333
+Crowley County,2011,33937.35119
+Crowley County,2012,34291.3125
+Crowley County,2013,37356.625
+Crowley County,2014,39134.91667
+Crowley County,2015,42276.14583
+Crowley County,2016,45537.25
+Custer County,1997,nan
+Custer County,1998,nan
+Custer County,1999,142360.6667
+Custer County,2000,153657.1667
+Custer County,2001,171968.5
+Custer County,2002,173595.1667
+Custer County,2003,170555.3077
+Custer County,2004,168477.3333
+Custer County,2005,150774.9722
+Custer County,2006,149347.8333
+Custer County,2007,152710.5556
+Custer County,2008,152237.5278
+Custer County,2009,148003.25
+Custer County,2010,140697.3056
+Custer County,2011,131926.25
+Custer County,2012,133130.4444
+Custer County,2013,142651.3333
+Custer County,2014,156347.8611
+Custer County,2015,168736.8611
+Custer County,2016,179952.9167
+Delta County,1997,99909.45833
+Delta County,1998,106193.6667
+Delta County,1999,117416.1667
+Delta County,2000,126661.9583
+Delta County,2001,137111.4583
+Delta County,2002,145357
+Delta County,2003,162872.6752
+Delta County,2004,167772.6111
+Delta County,2005,173781.0972
+Delta County,2006,181971.5278
+Delta County,2007,189049.9167
+Delta County,2008,191379
+Delta County,2009,187996.5139
+Delta County,2010,185859.4722
+Delta County,2011,184698
+Delta County,2012,187335.7361
+Delta County,2013,199705.0417
+Delta County,2014,211447.9861
+Delta County,2015,229343.3333
+Delta County,2016,245980.4444
+Denver County,1997,144211.0833
+Denver County,1998,157625.3333
+Denver County,1999,175471.9167
+Denver County,2000,202976.3333
+Denver County,2001,232443.5833
+Denver County,2002,246901.75
+Denver County,2003,249635.4615
+Denver County,2004,254793.5833
+Denver County,2005,261636.5833
+Denver County,2006,266078.6667
+Denver County,2007,264182.6667
+Denver County,2008,249410.25
+Denver County,2009,241534.1667
+Denver County,2010,243144.25
+Denver County,2011,233124.5833
+Denver County,2012,241457.1667
+Denver County,2013,267805.5
+Denver County,2014,295126.8333
+Denver County,2015,334190.8333
+Denver County,2016,373186.75
+Dolores County,1997,nan
+Dolores County,1998,nan
+Dolores County,1999,nan
+Dolores County,2000,nan
+Dolores County,2001,nan
+Dolores County,2002,nan
+Dolores County,2003,nan
+Dolores County,2004,nan
+Dolores County,2005,nan
+Dolores County,2006,66368.33333
+Dolores County,2007,67801.75
+Dolores County,2008,70630.41667
+Dolores County,2009,70696.66667
+Dolores County,2010,68571.25
+Dolores County,2011,68168.83333
+Dolores County,2012,149669.5568
+Dolores County,2013,139984.9944
+Dolores County,2014,141179.4444
+Dolores County,2015,145145.6389
+Dolores County,2016,155149.25
+Douglas County,1997,237211
+Douglas County,1998,248918.6583
+Douglas County,1999,269442.325
+Douglas County,2000,299965.4583
+Douglas County,2001,333321.9833
+Douglas County,2002,344198.6167
+Douglas County,2003,350817.1615
+Douglas County,2004,360330.7833
+Douglas County,2005,375187.7667
+Douglas County,2006,387729.275
+Douglas County,2007,390944.5333
+Douglas County,2008,376167.65
+Douglas County,2009,355795.9083
+Douglas County,2010,351189.325
+Douglas County,2011,345472.35
+Douglas County,2012,356044.0833
+Douglas County,2013,391405.2348
+Douglas County,2014,416145.0833
+Douglas County,2015,448269.5379
+Douglas County,2016,483301.8712
+Eagle County,1997,352306.9271
+Eagle County,1998,371096.6563
+Eagle County,1999,413701.9479
+Eagle County,2000,445860.9792
+Eagle County,2001,467242.9688
+Eagle County,2002,465369.1042
+Eagle County,2003,476061.5962
+Eagle County,2004,497978.0104
+Eagle County,2005,539251.6238
+Eagle County,2006,630730.85
+Eagle County,2007,694304.8667
+Eagle County,2008,708873.9167
+Eagle County,2009,661011.5076
+Eagle County,2010,636962.4924
+Eagle County,2011,550637.5379
+Eagle County,2012,532394.2045
+Eagle County,2013,535434.7045
+Eagle County,2014,590663.6364
+Eagle County,2015,627296.3409
+Eagle County,2016,648338.4394
+El Paso County,1997,148008.7361
+El Paso County,1998,155517.5139
+El Paso County,1999,172000.9615
+El Paso County,2000,181790.1667
+El Paso County,2001,197871.5893
+El Paso County,2002,208476.7381
+El Paso County,2003,216705.7527
+El Paso County,2004,225299.7976
+El Paso County,2005,236828.4583
+El Paso County,2006,247969.3333
+El Paso County,2007,253528.8988
+El Paso County,2008,244615.6071
+El Paso County,2009,230627.85
+El Paso County,2010,230959.5667
+El Paso County,2011,223447.5
+El Paso County,2012,225518.2833
+El Paso County,2013,232865.8056
+El Paso County,2014,242182.0111
+El Paso County,2015,256549.4333
+El Paso County,2016,275523.0667
+Elbert County,1997,178118.25
+Elbert County,1998,191820.7083
+Elbert County,1999,222439.5417
+Elbert County,2000,249844.2083
+Elbert County,2001,182182.4583
+Elbert County,2002,189146.25
+Elbert County,2003,193470.2308
+Elbert County,2004,203304.25
+Elbert County,2005,217182.75
+Elbert County,2006,224496.8667
+Elbert County,2007,225258.6833
+Elbert County,2008,218239.5833
+Elbert County,2009,214001.6167
+Elbert County,2010,210261.2333
+Elbert County,2011,205011.8833
+Elbert County,2012,205649.5667
+Elbert County,2013,217627.6
+Elbert County,2014,235147.6667
+Elbert County,2015,261151.05
+Elbert County,2016,283017.6333
+Fremont County,1997,nan
+Fremont County,1998,nan
+Fremont County,1999,nan
+Fremont County,2000,nan
+Fremont County,2001,nan
+Fremont County,2002,nan
+Fremont County,2003,nan
+Fremont County,2004,nan
+Fremont County,2005,154187.8917
+Fremont County,2006,156377.25
+Fremont County,2007,150672.0833
+Fremont County,2008,150391.3333
+Fremont County,2009,148676.2917
+Fremont County,2010,147782.6667
+Fremont County,2011,152922.6389
+Fremont County,2012,164130.9167
+Fremont County,2013,170447.9167
+Fremont County,2014,187640.6389
+Fremont County,2015,170941.3167
+Fremont County,2016,184140.625
+Garfield County,1997,nan
+Garfield County,1998,nan
+Garfield County,1999,nan
+Garfield County,2000,nan
+Garfield County,2001,nan
+Garfield County,2002,nan
+Garfield County,2003,nan
+Garfield County,2004,nan
+Garfield County,2005,nan
+Garfield County,2006,nan
+Garfield County,2007,nan
+Garfield County,2008,nan
+Garfield County,2009,nan
+Garfield County,2010,nan
+Garfield County,2011,nan
+Garfield County,2012,nan
+Garfield County,2013,263524.3611
+Garfield County,2014,278556.0694
+Garfield County,2015,329738.9028
+Garfield County,2016,337179.2361
+Gilpin County,1997,nan
+Gilpin County,1998,nan
+Gilpin County,1999,172029.2593
+Gilpin County,2000,190856.4167
+Gilpin County,2001,206269.6111
+Gilpin County,2002,209393.8056
+Gilpin County,2003,205072.8205
+Gilpin County,2004,211471.3889
+Gilpin County,2005,213921.6667
+Gilpin County,2006,248465.9
+Gilpin County,2007,238148.8958
+Gilpin County,2008,231578.6875
+Gilpin County,2009,227155.25
+Gilpin County,2010,217716.5833
+Gilpin County,2011,209717.7708
+Gilpin County,2012,212760.0833
+Gilpin County,2013,222190.8958
+Gilpin County,2014,240470.5417
+Gilpin County,2015,260308.625
+Gilpin County,2016,275615.375
+Grand County,1997,137932.1111
+Grand County,1998,150467.3889
+Grand County,1999,156296.7429
+Grand County,2000,178367.0238
+Grand County,2001,198115.6071
+Grand County,2002,206926.0833
+Grand County,2003,211887.6374
+Grand County,2004,220536.9881
+Grand County,2005,234351.2024
+Grand County,2006,246002.5595
+Grand County,2007,250130.1548
+Grand County,2008,266934.8229
+Grand County,2009,261629.1354
+Grand County,2010,253054.6042
+Grand County,2011,245798.9688
+Grand County,2012,246120.4062
+Grand County,2013,258934.9583
+Grand County,2014,280314.2813
+Grand County,2015,303932.1771
+Grand County,2016,322477.375
+Gunnison County,1997,168091.9167
+Gunnison County,1998,150735.5333
+Gunnison County,1999,161390.4241
+Gunnison County,2000,178847.6574
+Gunnison County,2001,190909.2639
+Gunnison County,2002,200254.3083
+Gunnison County,2003,205919.1308
+Gunnison County,2004,215512.0917
+Gunnison County,2005,224556.4924
+Gunnison County,2006,233573.0682
+Gunnison County,2007,241442.7727
+Gunnison County,2008,241200.7879
+Gunnison County,2009,233310.6818
+Gunnison County,2010,224516.1515
+Gunnison County,2011,221402.7803
+Gunnison County,2012,220403.1288
+Gunnison County,2013,229856.0909
+Gunnison County,2014,245070.0758
+Gunnison County,2015,265975.2045
+Gunnison County,2016,289819.5909
+Hinsdale County,1997,nan
+Hinsdale County,1998,nan
+Hinsdale County,1999,nan
+Hinsdale County,2000,nan
+Hinsdale County,2001,nan
+Hinsdale County,2002,nan
+Hinsdale County,2003,nan
+Hinsdale County,2004,nan
+Hinsdale County,2005,nan
+Hinsdale County,2006,nan
+Hinsdale County,2007,nan
+Hinsdale County,2008,nan
+Hinsdale County,2009,nan
+Hinsdale County,2010,nan
+Hinsdale County,2011,nan
+Hinsdale County,2012,nan
+Hinsdale County,2013,nan
+Hinsdale County,2014,nan
+Hinsdale County,2015,278630.4167
+Hinsdale County,2016,312527.1667
+Huerfano County,1997,nan
+Huerfano County,1998,nan
+Huerfano County,1999,nan
+Huerfano County,2000,nan
+Huerfano County,2001,nan
+Huerfano County,2002,nan
+Huerfano County,2003,nan
+Huerfano County,2004,nan
+Huerfano County,2005,69702.16667
+Huerfano County,2006,70753
+Huerfano County,2007,73093.58333
+Huerfano County,2008,71725
+Huerfano County,2009,67608.5
+Huerfano County,2010,65739.83333
+Huerfano County,2011,62117.08333
+Huerfano County,2012,62458.58333
+Huerfano County,2013,104514.4583
+Huerfano County,2014,106834.6667
+Huerfano County,2015,137641.5556
+Huerfano County,2016,146479.9167
+Jackson County,1997,nan
+Jackson County,1998,nan
+Jackson County,1999,nan
+Jackson County,2000,nan
+Jackson County,2001,nan
+Jackson County,2002,nan
+Jackson County,2003,nan
+Jackson County,2004,nan
+Jackson County,2005,nan
+Jackson County,2006,nan
+Jackson County,2007,nan
+Jackson County,2008,131390.1667
+Jackson County,2009,138595.1667
+Jackson County,2010,140027.1667
+Jackson County,2011,132497
+Jackson County,2012,137459
+Jackson County,2013,140148.4167
+Jackson County,2014,150468.5
+Jackson County,2015,149385.4583
+Jackson County,2016,156474.8333
+Jefferson County,1997,168882.925
+Jefferson County,1998,180503.9542
+Jefferson County,1999,198950.0917
+Jefferson County,2000,223472.3417
+Jefferson County,2001,250818.8333
+Jefferson County,2002,263571.0083
+Jefferson County,2003,269259.2038
+Jefferson County,2004,274544.525
+Jefferson County,2005,282217.5375
+Jefferson County,2006,289608.5583
+Jefferson County,2007,291181.1708
+Jefferson County,2008,290451.1042
+Jefferson County,2009,278180.4643
+Jefferson County,2010,273120.0238
+Jefferson County,2011,262681.7659
+Jefferson County,2012,267966.123
+Jefferson County,2013,292693.9683
+Jefferson County,2014,315375.6746
+Jefferson County,2015,350714.1349
+Jefferson County,2016,390321.0317
+Kiowa County,1997,nan
+Kiowa County,1998,nan
+Kiowa County,1999,nan
+Kiowa County,2000,nan
+Kiowa County,2001,nan
+Kiowa County,2002,nan
+Kiowa County,2003,nan
+Kiowa County,2004,nan
+Kiowa County,2005,nan
+Kiowa County,2006,nan
+Kiowa County,2007,nan
+Kiowa County,2008,38520.33333
+Kiowa County,2009,40106.54167
+Kiowa County,2010,38644.375
+Kiowa County,2011,38154.91667
+Kiowa County,2012,40056.16667
+Kiowa County,2013,42070.54167
+Kiowa County,2014,45498.83333
+Kiowa County,2015,54240.83333
+Kiowa County,2016,57565.86111
+Kit Carson County,1997,nan
+Kit Carson County,1998,nan
+Kit Carson County,1999,nan
+Kit Carson County,2000,nan
+Kit Carson County,2001,nan
+Kit Carson County,2002,nan
+Kit Carson County,2003,nan
+Kit Carson County,2004,nan
+Kit Carson County,2005,nan
+Kit Carson County,2006,nan
+Kit Carson County,2007,nan
+Kit Carson County,2008,nan
+Kit Carson County,2009,nan
+Kit Carson County,2010,92904.16667
+Kit Carson County,2011,88159.88889
+Kit Carson County,2012,89747.36111
+Kit Carson County,2013,95668.15278
+Kit Carson County,2014,97790.69444
+Kit Carson County,2015,105127.4861
+Kit Carson County,2016,116252.2639
+La Plata County,1997,nan
+La Plata County,1998,nan
+La Plata County,1999,nan
+La Plata County,2000,nan
+La Plata County,2001,nan
+La Plata County,2002,nan
+La Plata County,2003,nan
+La Plata County,2004,nan
+La Plata County,2005,245269.3936
+La Plata County,2006,265438.2083
+La Plata County,2007,283786.8542
+La Plata County,2008,290756
+La Plata County,2009,284823.0833
+La Plata County,2010,277736.8542
+La Plata County,2011,269726.7292
+La Plata County,2012,271776.6458
+La Plata County,2013,287764.5625
+La Plata County,2014,309191.875
+La Plata County,2015,322952.8542
+La Plata County,2016,332849.8333
+Lake County,1997,nan
+Lake County,1998,94296.71429
+Lake County,1999,92535.08333
+Lake County,2000,101891.6667
+Lake County,2001,111823.8333
+Lake County,2002,119802.25
+Lake County,2003,129876.0769
+Lake County,2004,138376.1667
+Lake County,2005,175889.3542
+Lake County,2006,186695.7917
+Lake County,2007,194203.0833
+Lake County,2008,200093.625
+Lake County,2009,198471.9583
+Lake County,2010,189392.2083
+Lake County,2011,182891.2083
+Lake County,2012,185266.9583
+Lake County,2013,198294.8333
+Lake County,2014,211962.7083
+Lake County,2015,226641.1667
+Lake County,2016,240378.1667
+Larimer County,1997,173615.2045
+Larimer County,1998,184240.803
+Larimer County,1999,199210.9242
+Larimer County,2000,217719.1591
+Larimer County,2001,243677.8409
+Larimer County,2002,258541.4621
+Larimer County,2003,265097.2238
+Larimer County,2004,272878.1667
+Larimer County,2005,276483.5303
+Larimer County,2006,283945.9091
+Larimer County,2007,283406.1288
+Larimer County,2008,273503.8182
+Larimer County,2009,265617.7955
+Larimer County,2010,259236.4167
+Larimer County,2011,254630.6136
+Larimer County,2012,257094.1894
+Larimer County,2013,268725.5909
+Larimer County,2014,283766.8636
+Larimer County,2015,308109.7045
+Larimer County,2016,339941.1894
+Las Animas County,1997,60581.58333
+Las Animas County,1998,62744.91667
+Las Animas County,1999,91268.83333
+Las Animas County,2000,90804.27778
+Las Animas County,2001,93177.30556
+Las Animas County,2002,91639.59583
+Las Animas County,2003,95815.34615
+Las Animas County,2004,90276.32222
+Las Animas County,2005,87798.72222
+Las Animas County,2006,91148.47222
+Las Animas County,2007,94547.26389
+Las Animas County,2008,93955.64286
+Las Animas County,2009,90713.69048
+Las Animas County,2010,88551.69048
+Las Animas County,2011,87051.70238
+Las Animas County,2012,89011.71429
+Las Animas County,2013,94546.52381
+Las Animas County,2014,101372.9762
+Las Animas County,2015,108349.1042
+Las Animas County,2016,116068.7396
+Lincoln County,1997,63841.83333
+Lincoln County,1998,65550.95833
+Lincoln County,1999,68027.35417
+Lincoln County,2000,75840.22917
+Lincoln County,2001,79885.75
+Lincoln County,2002,80338.89583
+Lincoln County,2003,79963.98077
+Lincoln County,2004,81575.95833
+Lincoln County,2005,83289.99333
+Lincoln County,2006,83515.68333
+Lincoln County,2007,82632.26667
+Lincoln County,2008,80801.25
+Lincoln County,2009,76324.35
+Lincoln County,2010,74386.2
+Lincoln County,2011,72369.18333
+Lincoln County,2012,74629.13333
+Lincoln County,2013,80174.61667
+Lincoln County,2014,86283.41667
+Lincoln County,2015,92781.9
+Lincoln County,2016,102717.3167
+Logan County,1997,72960.94444
+Logan County,1998,79933.7881
+Logan County,1999,85438.86458
+Logan County,2000,91834.46875
+Logan County,2001,98869.33333
+Logan County,2002,102061.6563
+Logan County,2003,104710.7404
+Logan County,2004,109694.9583
+Logan County,2005,113536.8438
+Logan County,2006,114941.7813
+Logan County,2007,116086.8125
+Logan County,2008,116147.8438
+Logan County,2009,114699.1875
+Logan County,2010,112213.8958
+Logan County,2011,108275.5938
+Logan County,2012,111105.2292
+Logan County,2013,117859.0417
+Logan County,2014,130196.2083
+Logan County,2015,145578.5417
+Logan County,2016,163543.8438
+Mesa County,1997,134774.4833
+Mesa County,1998,142418.7083
+Mesa County,1999,157621.5583
+Mesa County,2000,166699.4417
+Mesa County,2001,169531.4833
+Mesa County,2002,177587.9318
+Mesa County,2003,194221.5534
+Mesa County,2004,211352.3472
+Mesa County,2005,230352.5694
+Mesa County,2006,256375.9861
+Mesa County,2007,287447.5417
+Mesa County,2008,297183.2361
+Mesa County,2009,279753.3264
+Mesa County,2010,253203.375
+Mesa County,2011,230712.8125
+Mesa County,2012,235587.0417
+Mesa County,2013,232484.8889
+Mesa County,2014,236560.1389
+Mesa County,2015,249911.0069
+Mesa County,2016,263267.2153
+Mineral County,1997,nan
+Mineral County,1998,nan
+Mineral County,1999,nan
+Mineral County,2000,nan
+Mineral County,2001,nan
+Mineral County,2002,nan
+Mineral County,2003,nan
+Mineral County,2004,nan
+Mineral County,2005,nan
+Mineral County,2006,nan
+Mineral County,2007,nan
+Mineral County,2008,nan
+Mineral County,2009,nan
+Mineral County,2010,nan
+Mineral County,2011,nan
+Mineral County,2012,nan
+Mineral County,2013,nan
+Mineral County,2014,242925
+Mineral County,2015,239164.75
+Mineral County,2016,247362.4167
+Moffat County,1997,73639.41667
+Moffat County,1998,127472.3214
+Moffat County,1999,106200.5208
+Moffat County,2000,104099.25
+Moffat County,2001,101029.2292
+Moffat County,2002,105032.5625
+Moffat County,2003,109046.9808
+Moffat County,2004,111227.1667
+Moffat County,2005,117692.5208
+Moffat County,2006,124873
+Moffat County,2007,128491.9583
+Moffat County,2008,130505.1667
+Moffat County,2009,131551.0625
+Moffat County,2010,128827.5417
+Moffat County,2011,127443.6667
+Moffat County,2012,130747.1875
+Moffat County,2013,136091.9583
+Moffat County,2014,147049.2708
+Moffat County,2015,161280.7708
+Moffat County,2016,175636.8958
+Montezuma County,1997,120479.2917
+Montezuma County,1998,128173.5833
+Montezuma County,1999,135163.15
+Montezuma County,2000,149950.9333
+Montezuma County,2001,161259.95
+Montezuma County,2002,164478.0333
+Montezuma County,2003,163562.6923
+Montezuma County,2004,172600.3389
+Montezuma County,2005,185115.9306
+Montezuma County,2006,187744.3472
+Montezuma County,2007,192138.7778
+Montezuma County,2008,194368.2639
+Montezuma County,2009,192663.9722
+Montezuma County,2010,188749.0278
+Montezuma County,2011,181641.25
+Montezuma County,2012,180871.4444
+Montezuma County,2013,192313.1944
+Montezuma County,2014,208331.8194
+Montezuma County,2015,226954.75
+Montezuma County,2016,240841.7917
+Montrose County,1997,91023.95833
+Montrose County,1998,95237.625
+Montrose County,1999,103758.5208
+Montrose County,2000,109983.5
+Montrose County,2001,114420.625
+Montrose County,2002,118961.7917
+Montrose County,2003,123986.7308
+Montrose County,2004,130463.6875
+Montrose County,2005,135030.0417
+Montrose County,2006,137067.0139
+Montrose County,2007,144602.4306
+Montrose County,2008,144470.4861
+Montrose County,2009,144000.625
+Montrose County,2010,143943.5694
+Montrose County,2011,141450.625
+Montrose County,2012,142446.4583
+Montrose County,2013,151909.5278
+Montrose County,2014,159751.6806
+Montrose County,2015,168137.8889
+Montrose County,2016,172552.6944
+Morgan County,1997,85901.8
+Morgan County,1998,92843.16667
+Morgan County,1999,103075.2333
+Morgan County,2000,112798.5
+Morgan County,2001,125035.6667
+Morgan County,2002,134049.85
+Morgan County,2003,136970.8154
+Morgan County,2004,145758.332
+Morgan County,2005,146800.1905
+Morgan County,2006,143406.1667
+Morgan County,2007,139871.25
+Morgan County,2008,123662.3021
+Morgan County,2009,120482.1771
+Morgan County,2010,114375.7083
+Morgan County,2011,110758.25
+Morgan County,2012,113199.7708
+Morgan County,2013,122035.4167
+Morgan County,2014,133163.2396
+Morgan County,2015,150055.2396
+Morgan County,2016,165646.9583
+Otero County,1997,nan
+Otero County,1998,nan
+Otero County,1999,nan
+Otero County,2000,nan
+Otero County,2001,nan
+Otero County,2002,nan
+Otero County,2003,71978.66667
+Otero County,2004,70044
+Otero County,2005,59708.35556
+Otero County,2006,60848.73333
+Otero County,2007,60715.65
+Otero County,2008,60304.68333
+Otero County,2009,59386.56667
+Otero County,2010,57512.28333
+Otero County,2011,56301.66667
+Otero County,2012,56331.38333
+Otero County,2013,59813.86667
+Otero County,2014,64046.05
+Otero County,2015,69324.03333
+Otero County,2016,75020.46667
+Ouray County,1997,168263.3333
+Ouray County,1998,179442.6667
+Ouray County,1999,197324.5833
+Ouray County,2000,217402.8333
+Ouray County,2001,228552.5417
+Ouray County,2002,243715.5
+Ouray County,2003,249609.1538
+Ouray County,2004,262206.8333
+Ouray County,2005,290362.125
+Ouray County,2006,325194.25
+Ouray County,2007,339501.0417
+Ouray County,2008,343153.375
+Ouray County,2009,335113.4583
+Ouray County,2010,321750.875
+Ouray County,2011,314409.375
+Ouray County,2012,317914.3333
+Ouray County,2013,334405.875
+Ouray County,2014,356617.9583
+Ouray County,2015,376844.625
+Ouray County,2016,396263.375
+Park County,1997,124899.2708
+Park County,1998,132908.5833
+Park County,1999,144624.4792
+Park County,2000,163617.2083
+Park County,2001,176358.4479
+Park County,2002,183412.3646
+Park County,2003,188102.7404
+Park County,2004,195252.8438
+Park County,2005,206443.9583
+Park County,2006,214209.9167
+Park County,2007,219861.125
+Park County,2008,217588.2292
+Park County,2009,212494.8438
+Park County,2010,207440.5313
+Park County,2011,200719.4063
+Park County,2012,202165.5625
+Park County,2013,214352.7187
+Park County,2014,231363.5208
+Park County,2015,251667.0417
+Park County,2016,272670.1458
+Phillips County,1997,nan
+Phillips County,1998,nan
+Phillips County,1999,nan
+Phillips County,2000,nan
+Phillips County,2001,nan
+Phillips County,2002,nan
+Phillips County,2003,nan
+Phillips County,2004,nan
+Phillips County,2005,nan
+Phillips County,2006,nan
+Phillips County,2007,nan
+Phillips County,2008,nan
+Phillips County,2009,nan
+Phillips County,2010,nan
+Phillips County,2011,nan
+Phillips County,2012,nan
+Phillips County,2013,nan
+Phillips County,2014,90268.27778
+Phillips County,2015,99593.75
+Phillips County,2016,110578.0417
+Pitkin County,1997,552223.5
+Pitkin County,1998,476807.5222
+Pitkin County,1999,507021.7778
+Pitkin County,2000,572304.9444
+Pitkin County,2001,625104.6944
+Pitkin County,2002,555844.5417
+Pitkin County,2003,554271.2885
+Pitkin County,2004,567533.1667
+Pitkin County,2005,597192.5208
+Pitkin County,2006,621985.625
+Pitkin County,2007,637459.9583
+Pitkin County,2008,567666.4167
+Pitkin County,2009,565536.1167
+Pitkin County,2010,559031.1667
+Pitkin County,2011,555850
+Pitkin County,2012,571859
+Pitkin County,2013,611702.95
+Pitkin County,2014,665585.25
+Pitkin County,2015,731479.7
+Pitkin County,2016,778772.9333
+Prowers County,1997,31330.25
+Prowers County,1998,35991.23611
+Prowers County,1999,35766.71667
+Prowers County,2000,40560.3125
+Prowers County,2001,45587.04167
+Prowers County,2002,47995.60417
+Prowers County,2003,49234.71154
+Prowers County,2004,51669.72917
+Prowers County,2005,54346.0625
+Prowers County,2006,55663.35417
+Prowers County,2007,56641.4375
+Prowers County,2008,48236.08333
+Prowers County,2009,46227.38333
+Prowers County,2010,44822.01667
+Prowers County,2011,43374.33333
+Prowers County,2012,43783.58333
+Prowers County,2013,46476.85
+Prowers County,2014,50551.23333
+Prowers County,2015,55917.75
+Prowers County,2016,60739.88333
+Pueblo County,1997,98295.60417
+Pueblo County,1998,99200.64583
+Pueblo County,1999,103929.15
+Pueblo County,2000,110311.6833
+Pueblo County,2001,116178.2
+Pueblo County,2002,115781.5069
+Pueblo County,2003,122001.8718
+Pueblo County,2004,124690.1944
+Pueblo County,2005,130393.2639
+Pueblo County,2006,139693.5833
+Pueblo County,2007,140007.3056
+Pueblo County,2008,135073.4861
+Pueblo County,2009,134231.4306
+Pueblo County,2010,133036.5556
+Pueblo County,2011,125208.4444
+Pueblo County,2012,122623.4306
+Pueblo County,2013,120800.1389
+Pueblo County,2014,120165.9444
+Pueblo County,2015,128493.6528
+Pueblo County,2016,139639.0417
+Rio Blanco County,1997,nan
+Rio Blanco County,1998,nan
+Rio Blanco County,1999,nan
+Rio Blanco County,2000,105701.375
+Rio Blanco County,2001,116031.4583
+Rio Blanco County,2002,120143.625
+Rio Blanco County,2003,121858.1923
+Rio Blanco County,2004,126359.9583
+Rio Blanco County,2005,128867.25
+Rio Blanco County,2006,135782.25
+Rio Blanco County,2007,143178.5833
+Rio Blanco County,2008,149293.7083
+Rio Blanco County,2009,151078.4583
+Rio Blanco County,2010,149145.3333
+Rio Blanco County,2011,148480.9167
+Rio Blanco County,2012,149473.5417
+Rio Blanco County,2013,160583.5833
+Rio Blanco County,2014,172705.6667
+Rio Blanco County,2015,190692.5
+Rio Blanco County,2016,210152.375
+Rio Grande County,1997,69088.58333
+Rio Grande County,1998,75230.83333
+Rio Grande County,1999,105488.25
+Rio Grande County,2000,106246.0833
+Rio Grande County,2001,112544.6944
+Rio Grande County,2002,116461.1944
+Rio Grande County,2003,119528.6923
+Rio Grande County,2004,125151.7222
+Rio Grande County,2005,132048.4167
+Rio Grande County,2006,138659.0278
+Rio Grande County,2007,138564.4722
+Rio Grande County,2008,139487.0278
+Rio Grande County,2009,135771
+Rio Grande County,2010,132294.5
+Rio Grande County,2011,128983.1389
+Rio Grande County,2012,130619.75
+Rio Grande County,2013,139924.4167
+Rio Grande County,2014,149205.8611
+Rio Grande County,2015,161241.6111
+Rio Grande County,2016,172016.75
+Routt County,1997,144568.8571
+Routt County,1998,155051.7381
+Routt County,1999,162190.3214
+Routt County,2000,181509.75
+Routt County,2001,193982.369
+Routt County,2002,201845
+Routt County,2003,209523.3846
+Routt County,2004,219091.119
+Routt County,2005,230794.5
+Routt County,2006,243840.8452
+Routt County,2007,266235.7262
+Routt County,2008,336971.125
+Routt County,2009,316832.9583
+Routt County,2010,305946.5208
+Routt County,2011,292600.9271
+Routt County,2012,291194.1146
+Routt County,2013,301728.3125
+Routt County,2014,322220.8229
+Routt County,2015,343634.7396
+Routt County,2016,358156.3958
+Saguache County,1997,42280.91667
+Saguache County,1998,43930.66667
+Saguache County,1999,69658.41667
+Saguache County,2000,77527.94444
+Saguache County,2001,87221.13889
+Saguache County,2002,88393.13889
+Saguache County,2003,91025.41026
+Saguache County,2004,81355.29333
+Saguache County,2005,84265.95
+Saguache County,2006,86656.88333
+Saguache County,2007,88506.21667
+Saguache County,2008,89593.3
+Saguache County,2009,88706.66667
+Saguache County,2010,86601.65
+Saguache County,2011,85491.6
+Saguache County,2012,85441.3
+Saguache County,2013,91124.2
+Saguache County,2014,100412.6833
+Saguache County,2015,107875.05
+Saguache County,2016,116696.5167
+San Juan County,1997,nan
+San Juan County,1998,nan
+San Juan County,1999,nan
+San Juan County,2000,nan
+San Juan County,2001,nan
+San Juan County,2002,nan
+San Juan County,2003,nan
+San Juan County,2004,nan
+San Juan County,2005,nan
+San Juan County,2006,263150.4
+San Juan County,2007,262514.9167
+San Juan County,2008,257089.4167
+San Juan County,2009,249210.3333
+San Juan County,2010,239987.25
+San Juan County,2011,231539.5
+San Juan County,2012,222969.3333
+San Juan County,2013,230775.9167
+San Juan County,2014,245153.3333
+San Juan County,2015,262751.25
+San Juan County,2016,255709.4167
+San Miguel County,1997,290230.0625
+San Miguel County,1998,308730.4792
+San Miguel County,1999,342308.4375
+San Miguel County,2000,387036.4167
+San Miguel County,2001,424261.9167
+San Miguel County,2002,447200.3958
+San Miguel County,2003,464821.5769
+San Miguel County,2004,488194.9583
+San Miguel County,2005,529115.9375
+San Miguel County,2006,562222.7708
+San Miguel County,2007,580140.125
+San Miguel County,2008,587154.9583
+San Miguel County,2009,576959.4375
+San Miguel County,2010,554406.6875
+San Miguel County,2011,525146.6667
+San Miguel County,2012,524355.1042
+San Miguel County,2013,548860.6667
+San Miguel County,2014,540694.0067
+San Miguel County,2015,489113.4048
+San Miguel County,2016,519019.5952
+Sedgwick County,1997,nan
+Sedgwick County,1998,nan
+Sedgwick County,1999,nan
+Sedgwick County,2000,nan
+Sedgwick County,2001,nan
+Sedgwick County,2002,nan
+Sedgwick County,2003,nan
+Sedgwick County,2004,nan
+Sedgwick County,2005,nan
+Sedgwick County,2006,nan
+Sedgwick County,2007,nan
+Sedgwick County,2008,50837.41667
+Sedgwick County,2009,47571.66667
+Sedgwick County,2010,43227.75
+Sedgwick County,2011,35322.04167
+Sedgwick County,2012,35501.63889
+Sedgwick County,2013,35994.5
+Sedgwick County,2014,39410.91667
+Sedgwick County,2015,43391.22222
+Sedgwick County,2016,47329.41667
+Summit County,1997,nan
+Summit County,1998,nan
+Summit County,1999,223403.2269
+Summit County,2000,250463.1111
+Summit County,2001,263095.2222
+Summit County,2002,273138.8889
+Summit County,2003,281645.8205
+Summit County,2004,294136.1389
+Summit County,2005,304849.65
+Summit County,2006,328434.75
+Summit County,2007,347014.55
+Summit County,2008,380908.9028
+Summit County,2009,381781.7361
+Summit County,2010,368254.8611
+Summit County,2011,355545.0833
+Summit County,2012,358523.0278
+Summit County,2013,369329.6667
+Summit County,2014,389929.8472
+Summit County,2015,406747.2778
+Summit County,2016,447647.1528
+Teller County,1997,103601.8333
+Teller County,1998,109636.1
+Teller County,1999,117109.4833
+Teller County,2000,127863.4167
+Teller County,2001,135530.6333
+Teller County,2002,140564.3167
+Teller County,2003,143391.7077
+Teller County,2004,148258.1333
+Teller County,2005,153925.3667
+Teller County,2006,160435.8167
+Teller County,2007,167771.0333
+Teller County,2008,168542.6167
+Teller County,2009,164747.6333
+Teller County,2010,160741.55
+Teller County,2011,156623.9667
+Teller County,2012,158510.2167
+Teller County,2013,168053.2667
+Teller County,2014,180082.5333
+Teller County,2015,194769.4333
+Teller County,2016,211584.0167
+Washington County,1997,nan
+Washington County,1998,nan
+Washington County,1999,nan
+Washington County,2000,nan
+Washington County,2001,nan
+Washington County,2002,nan
+Washington County,2003,nan
+Washington County,2004,nan
+Washington County,2005,nan
+Washington County,2006,nan
+Washington County,2007,nan
+Washington County,2008,58917
+Washington County,2009,58473.16667
+Washington County,2010,56912.08333
+Washington County,2011,54184.33333
+Washington County,2012,58249
+Washington County,2013,64038.91667
+Washington County,2014,64225.08333
+Washington County,2015,86096.75505
+Washington County,2016,97781.52778
+Weld County,1997,164598.6235
+Weld County,1998,173410.1914
+Weld County,1999,190099.4259
+Weld County,2000,205095.7932
+Weld County,2001,225987.3241
+Weld County,2002,242347.7259
+Weld County,2003,249662.1857
+Weld County,2004,255429.6408
+Weld County,2005,259773.3649
+Weld County,2006,258286.3822
+Weld County,2007,248158.9713
+Weld County,2008,228727.4167
+Weld County,2009,218623.8333
+Weld County,2010,212775.8477
+Weld County,2011,206673.3276
+Weld County,2012,213706.408
+Weld County,2013,229602.8305
+Weld County,2014,254511.4885
+Weld County,2015,284179.5891
+Weld County,2016,307618.5374
+Yuma County,1997,nan
+Yuma County,1998,nan
+Yuma County,1999,nan
+Yuma County,2000,nan
+Yuma County,2001,nan
+Yuma County,2002,nan
+Yuma County,2003,nan
+Yuma County,2004,nan
+Yuma County,2005,97012.41944
+Yuma County,2006,97817.89583
+Yuma County,2007,97916.25
+Yuma County,2008,99353.5
+Yuma County,2009,97725.47917
+Yuma County,2010,98335.56944
+Yuma County,2011,99034.97619
+Yuma County,2012,102651.1429
+Yuma County,2013,110623.4762
+Yuma County,2014,120436.2976
+Yuma County,2015,131109.8095
+Yuma County,2016,147907.7024

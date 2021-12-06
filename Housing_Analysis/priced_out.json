@@ -1,0 +1,259 @@
+[
+    {
+        "county": "Adams",
+        "suggest_income": 59981.71830868059
+    },
+    {
+        "county": "Alamosa",
+        "suggest_income": 27957.159348131678
+    },
+    {
+        "county": "Arapahoe",
+        "suggest_income": 122338.73366829524
+    },
+    {
+        "county": "Archuleta",
+        "suggest_income": 72022.51589028921
+    },
+    {
+        "county": "Baca",
+        "suggest_income": 12638.238614007629
+    },
+    {
+        "county": "Bent",
+        "suggest_income": 14161.99429020123
+    },
+    {
+        "county": "Boulder",
+        "suggest_income": 91630.77467195832
+    },
+    {
+        "county": "Broomfield",
+        "suggest_income": 82182.29616677894
+    },
+    {
+        "county": "Chaffee",
+        "suggest_income": 61911.548942316
+    },
+    {
+        "county": "Cheyenne",
+        "suggest_income": 22448.94761405615
+    },
+    {
+        "county": "Conejos",
+        "suggest_income": 47927.659870367286
+    },
+    {
+        "county": "Costilla",
+        "suggest_income": 19880.48103205192
+    },
+    {
+        "county": "Crowley",
+        "suggest_income": 19008.2413108304
+    },
+    {
+        "county": "Custer",
+        "suggest_income": 9215.3703767744
+    },
+    {
+        "county": "Delta",
+        "suggest_income": 36417.06026980838
+    },
+    {
+        "county": "Denver",
+        "suggest_income": 49779.04683725
+    },
+    {
+        "county": "Dolores",
+        "suggest_income": 75521.77878450531
+    },
+    {
+        "county": "Douglas",
+        "suggest_income": 31397.5438224479
+    },
+    {
+        "county": "Eagle",
+        "suggest_income": 97805.76883531873
+    },
+    {
+        "county": "Elbert",
+        "suggest_income": 131204.2086109922
+    },
+    {
+        "county": "Fremont",
+        "suggest_income": 55757.58542699038
+    },
+    {
+        "county": "Garfield",
+        "suggest_income": 57274.26039160512
+    },
+    {
+        "county": "Gilpin",
+        "suggest_income": 37264.52653126229
+    },
+    {
+        "county": "Grand",
+        "suggest_income": 68234.94049419675
+    },
+    {
+        "county": "Gunnison",
+        "suggest_income": 55776.2658517712
+    },
+    {
+        "county": "Hinsdale",
+        "suggest_income": 65259.72580151349
+    },
+    {
+        "county": "Huerfano",
+        "suggest_income": 58650.77211708515
+    },
+    {
+        "county": "Jackson",
+        "suggest_income": 63246.10278276389
+    },
+    {
+        "county": "Jefferson",
+        "suggest_income": 29643.131395715853
+    },
+    {
+        "county": "Kiowa",
+        "suggest_income": 31665.802030283616
+    },
+    {
+        "county": "Lake",
+        "suggest_income": 78989.24227879816
+    },
+    {
+        "county": "Larimer",
+        "suggest_income": 11649.599639561096
+    },
+    {
+        "county": "Lincoln",
+        "suggest_income": 23525.963227402182
+    },
+    {
+        "county": "Logan",
+        "suggest_income": 67358.79952581936
+    },
+    {
+        "county": "Mesa",
+        "suggest_income": 48645.314256581565
+    },
+    {
+        "county": "Mineral",
+        "suggest_income": 68793.8768072779
+    },
+    {
+        "county": "Moffat",
+        "suggest_income": 23488.823426521845
+    },
+    {
+        "county": "Montezuma",
+        "suggest_income": 20786.89682620128
+    },
+    {
+        "county": "Montrose",
+        "suggest_income": 33096.35723409604
+    },
+    {
+        "county": "Morgan",
+        "suggest_income": 53277.36956121655
+    },
+    {
+        "county": "Otero",
+        "suggest_income": 50058.716483417535
+    },
+    {
+        "county": "Ouray",
+        "suggest_income": 35543.627395680065
+    },
+    {
+        "county": "Park",
+        "suggest_income": 48739.13801824772
+    },
+    {
+        "county": "Phillips",
+        "suggest_income": 34919.47775516454
+    },
+    {
+        "county": "Pitkin",
+        "suggest_income": 33521.96438126159
+    },
+    {
+        "county": "Prowers",
+        "suggest_income": 15181.887052962338
+    },
+    {
+        "county": "Pueblo",
+        "suggest_income": 80191.79391323906
+    },
+    {
+        "county": "Routt",
+        "suggest_income": 55180.24000650186
+    },
+    {
+        "county": "Saguache",
+        "suggest_income": 22377.67124285952
+    },
+    {
+        "county": "Sedgwick",
+        "suggest_income": 157600.2288185283
+    },
+    {
+        "county": "Summit",
+        "suggest_income": 12291.926313688578
+    },
+    {
+        "county": "Teller",
+        "suggest_income": 28258.743958481136
+    },
+    {
+        "county": "Washington",
+        "suggest_income": 42528.52271895613
+    },
+    {
+        "county": "Weld",
+        "suggest_income": 34811.018721135064
+    },
+    {
+        "county": "Yuma",
+        "suggest_income": 72480.0869641361
+    },
+    {
+        "county": "Rio Blanco",
+        "suggest_income": 54357.0869641361
+    },
+    {
+        "county": "Clear Creek",
+        "suggest_income": 67060.0869641361
+    },
+    {
+        "county": "Kit Carson",
+        "suggest_income": 49349.0869641361
+    },
+    {
+        "county": "El Paso",
+        "suggest_income": 68779.0869641361
+    },
+    {
+        "county": "La Plata",
+        "suggest_income": 68685.0869641361
+    },
+    {
+        "county": "San Juan",
+        "suggest_income": 54625.0869641361
+    },
+
+    {
+        "county": "Rio Grande",
+        "suggest_income": 39123.0869641361
+    },
+    {
+        "county": "Las Animas",
+        "suggest_income": 41817.0869641361
+    },
+    {
+        "county": "San Miguel",
+        "suggest_income": 67038.0869641361
+    }
+]
