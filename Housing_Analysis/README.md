@@ -28,7 +28,8 @@ https://public.tableau.com/app/profile/joel5248/viz/HousePriceProject_1635717668
 
 and the second shows the correlation and variation between house prices and other metrics for some of the more heavily populated counties in the Front Range:
 
-https://public.tableau.com/app/profile/joel5248/viz/ProjectFinalCountyData/Story1?publish=yes
+https://public.tableau.com/app/profile/joel5248/viz/ProjectFinalCountyData/HousinginColorado?publish=yes
+
 
 ### Google Slide Link
 
