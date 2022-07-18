@@ -9,7 +9,7 @@ Housing affordablility in the Sate of Colorado and the potential of average inco
 The housing market in Colorado has become a topic of concern for quite a few residents and potential residents.  The influx of new residents over the course of the last 20 years has put pressure on the housing market which has resulted in exorbitant home prices.  We are attempting to look at the rate of growth in both housing prices, as well as the increase in average income to find the potential of the average worker being priced out of the market and never achieving the sterotypical American Dream.
 
 ### **Description of the source of data**
-At the time of this writing, the group has settled on Income Data being sourced from The State of Colorado, as well as HOusing Data from Zillow.
+The group has settled on Income Data being sourced from The State of Colorado, as well as HOusing Data from Zillow.
 
 ### **Questions the team hopes to answer with the data**
 1.) Who is being priced out of the housing market in Colorado?
@@ -18,7 +18,7 @@ At the time of this writing, the group has settled on Income Data being sourced 
 The group has worked together to gather a variety of Data sets from a variety of different locations.  The group has looked at the information contained within each Data set in order to discover pieces of information that is relevant to the project.  Quite a few Data sets were discarded, and the two sets listed above have been the most resourceful so far.  The group retains the right to add data sets to the project should they deem it necessary to add additional information.
 
 ### **Description of the analysis phase of the project**
-The group is in the process of cleaning the data.  The group will use Jupyter Notebook to call the data from the csv files that we found.  We will combine columns from the two different Data sets and begin to eliminate columns that are not relevant to the project.  We are also in the process of dropping rows that do not have complete information.  Once the cleaning is complete, the group will employ PGAdmin to house our data.  Eventually, moving information to Javascript to display our findings.
+The group used Pandas in Jupyter Notebook to clean the data from the csv files that we found.  We combined columns from the two different data sets and eliminated columns that were not relevant to the project.  We also dropped rows that did not have complete information.  We employed PGAdmin to house our data, and moved information to Javascript to display our findings.
 
 ### Visualizations
 
@@ -26,7 +26,7 @@ We created two Tableau stories for some further contributing data regarding this
 
 https://public.tableau.com/app/profile/joel5248/viz/HousePriceProject_16357176681830/Story1?publish=yes
 
-and the second shows the correlation and variation between house prices and other metrics for some of the more heavily populated counties in the Front Range:
+and the second shows the correlation and variation between house prices and other metrics for some of the more heavily populated counties in the Front Range. This includes an interactive map of the state:
 
 https://public.tableau.com/app/profile/joel5248/viz/ProjectFinalCountyData/HousinginColorado?publish=yes
 
