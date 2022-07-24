@@ -14,8 +14,11 @@ The group has settled on Income Data being sourced from The State of Colorado, a
 ### **Questions the team hopes to answer with the data**
 1.) Who is being priced out of the housing market in Colorado?
 
+### **Description of the communication protocols**
+The group had multiple meetings via Google Meet, and communicated via Slack.  Email and mobile numbers have been exchanged as well. Class time throughout the first week was invaluable. The meetings continued throughout the project.
+
 ### **Description of the data exploration phase of the project**
-The group has worked together to gather a variety of Data sets from a variety of different locations.  The group has looked at the information contained within each Data set in order to discover pieces of information that is relevant to the project.  Quite a few Data sets were discarded, and the two sets listed above have been the most resourceful so far.  The group retains the right to add data sets to the project should they deem it necessary to add additional information.
+The group has worked together to gather a variety of Data sets from a variety of different locations.  The group has looked at the information contained within each Data set in order to discover pieces of information that is relevant to the project.  Quite a few Data sets were discarded, and the two sets listed above have been the most resourceful.  The group retains the right to add data sets to the project should they deem it necessary to add additional information.
 
 ### **Description of the analysis phase of the project**
 The group used Pandas in Jupyter Notebook to clean the data from the csv files that we found.  We combined columns from the two different data sets and eliminated columns that were not relevant to the project.  We also dropped rows that did not have complete information.  We employed PGAdmin to house our data, and moved information to Javascript to display our findings.
@@ -37,7 +40,5 @@ Our link for the google slides for our presentation is below:
 
 https://docs.google.com/presentation/d/1Po52fmBSyhqKQbyg-bUZlLXAX_6RMl83/edit#slide=id.p2
 
-## README.md should include:
 
-### **Description of the communication protocols**
-To date, the group has had multiple meetings via Google Meet, and have communicated via Slack.  Email and mobile numbers have been exchanged as well. Class time throughout the first week has been invaluable as well. The meetings will continue throughout the project.
+
