@@ -33,6 +33,12 @@ and the second shows the correlation and variation between house prices and othe
 
 https://public.tableau.com/app/profile/joel5248/viz/ProjectFinalCountyData/HousinginColorado?publish=yes
 
+The Machine Learning model revealed population to be the primary factor of influence, edging out House Price and Income.
+
+![image](https://user-images.githubusercontent.com/84299125/181494640-ce646f3c-d582-4b9c-835a-dba762acab39.png)
+
+Note: While "Other" comprises the largest percentage, that category is comprised of 52 factors, with an average influence of 0.75%.
+
 
 ### Google Slide Link
 
